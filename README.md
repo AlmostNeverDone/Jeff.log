@@ -1,8 +1,9 @@
 <h1>Hi, I'm Jeff! </h1>
 Cyber Security student (currently studying Cyber Security part-time)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
+Cybersecurity
 - <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall)</b>
 
 <h2> Certifications:</h2>
