@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jeff! </h1>
-Cyber Security student (currently studying to be a Cyber Security Analyst)
+Cyber Security student (currently studying Cyber Security part-time)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
