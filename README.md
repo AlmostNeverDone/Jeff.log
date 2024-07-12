@@ -1,15 +1,15 @@
 <h1>Hi, I'm Jeff! </h1>
 Cyber Security student (currently studying Cyber Security part-time)
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Projects 專題</h2>
 
 Cybersecurity
-- <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall)</b>
-- <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets)</b>
-- <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main)</b>
+- <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
+- <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) (初學 Wireshark - 擷取封包)</b>
+- <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) (將 Wireshark 用於基本網路安全分析)</b>
 
 
-<h2> Certifications:</h2>
+<h2> Certifications 證照</h2>
 
 - <b>[Google IT Support Professional](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)</b>
 - <b>[Google Cybersecurity Professional](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
