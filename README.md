@@ -12,8 +12,9 @@ Cybersecurity
 <h2> Certifications 證照</h2>
 
 - <b>[Google IT Support Professional](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)</b>
+
 - <b>[Google Cybersecurity Professional](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
-  
+: Includes Linux, MySQL, and Python hands-on labs. (包括 Linux、MySQL 和 Python 虛擬實驗室)
 
 
 [twitter]: https://twitter.com/Jeffmadakor
