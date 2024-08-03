@@ -10,27 +10,25 @@ Cybersecurity
 - <b>[Interrogating Network Traffic With Capture and Display Filters - Tcpdump]() (使用捕獲和顯示過濾器詢問網路流量 - Tcpdump)</b>
 
 
-<Under preparation 整理中>
-Microsoft AI-900 
+
+
+
+
+<b>[Under preparation 整理中]</b>
+
+Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎知識 (AI-900) </b>
 - <b>[Prompt Engineering example]() (提示工程範例)</b>
 - <b>[Set up Azure AI Services resources and use Speech Studio]() (建立 Azure AI Services 資源並使用 Speech Studio)</b>
 - <b>[Use linear regression models in Azure Machine Learning Studio：Training model/car price prediction]() (在 Azure Machine Learning Studio 中使用線性迴歸模型：訓練模型/汽車價格預測)</b>
 - <b>[Use linear regression models in Azure Machine Learning Studio：Deployment model and inference/car price prediction]() (在 Azure Machine Learning Studio 中使用線性迴歸模型：佈署模型與推理/汽車價格預測)</b>
 
 
+[Google IT Support Professional](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)
 
-<h2> Certifications 證照</h2>
-
-- <b>[Google IT Support Professional](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)</b>
-
-- <b>[Google Cybersecurity Professional](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
+[Google Cybersecurity Professional](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
 : Includes Linux, MySQL, and Python hands-on labs. (包括 Linux、MySQL 和 Python 虛擬實驗室)
 
 
-[twitter]: https://twitter.com/Jeffmadakor
-[youtube]: https://www.youtube.com/c/Jeffmadakor
-[instagram]: https://www.instagram.com/Jeffmadakor/
-[linkedin]: https://linkedin.com/in/Jeffmadakor
 
 <!--
 **Jeffmadakor1/Jeffmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
