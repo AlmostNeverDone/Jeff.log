@@ -14,7 +14,7 @@ Cybersecurity
 
 
 
-<b>[Under preparation 整理中]</b>
+<b>[Under preparation 以下整理中]</b>
 
 Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎知識 (AI-900) </b>
 - <b>[Prompt Engineering example]() (提示工程範例)</b>
