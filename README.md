@@ -23,6 +23,8 @@ Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-90
 - <b>[Use linear regression models in Azure Machine Learning Studio：Deployment model and inference/car price prediction]() (在 Azure Machine Learning Studio 中使用線性迴歸模型：佈署模型與推理/汽車價格預測)</b>
 - <b>[Copilot for Cybersecurity]() (利用 Copilot 實現網路安全)</b>
 
+[PMP]()
+
 [Google IT Support Professional](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)
 
 [Google Cybersecurity Professional](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
