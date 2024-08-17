@@ -21,7 +21,7 @@ Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-90
 - <b>[Set up Azure AI Services resources and use Speech Studio]() (建立 Azure AI Services 資源並使用 Speech Studio)</b>
 - <b>[Use linear regression models in Azure Machine Learning Studio：Training model/car price prediction]() (在 Azure Machine Learning Studio 中使用線性迴歸模型：訓練模型/汽車價格預測)</b>
 - <b>[Use linear regression models in Azure Machine Learning Studio：Deployment model and inference/car price prediction]() (在 Azure Machine Learning Studio 中使用線性迴歸模型：佈署模型與推理/汽車價格預測)</b>
-- <b>[Copilot for Cybersecurity]() (利用 Copilot 實現網路安全)</b>
+
 
 [PMP]()
 
@@ -30,7 +30,9 @@ Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-90
 [Google Cybersecurity Professional](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
 : Includes Linux, MySQL, and Python hands-on labs. (包括 Linux、MySQL 和 Python 虛擬實驗室)
 
+<h2>👨‍💻 Tool Sets 工具集</h2>
 
+- <b>[Copilot for Cybersecurity]() (利用 Copilot 實現網路安全)</b>
 
 <!--
 **Jeffmadakor1/Jeffmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
