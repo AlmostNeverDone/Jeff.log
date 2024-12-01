@@ -3,7 +3,7 @@ Cyber Security student (currently studying Cyber Security part-time)
 
 <h2>👨‍💻 Projects and Hands-on labs 專題與手做實驗室</h2>
 
-Cybersecurity
+[Cybersecurity]
 - <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
 - <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) (初學 Wireshark - 擷取封包)</b>
 - <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) (將 Wireshark 用於基本網路安全分析)</b>
@@ -16,7 +16,9 @@ Cybersecurity
 
 <b>[Under preparation 以下整理中]</b>
 
-[[CEH Pratical]]()
+[CEH Pratical]
+- <b>[Network Scanning and Identification of Live Systems]() (即時系統的網路掃描和識別)</b>
+
 
 Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900) </b>
 
