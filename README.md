@@ -16,6 +16,8 @@ Cybersecurity
 
 <b>[Under preparation 以下整理中]</b>
 
+[[CEH Pratical]]()
+
 Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900) </b>
 
 [PMP]()
