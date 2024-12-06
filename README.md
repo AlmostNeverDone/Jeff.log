@@ -18,8 +18,8 @@ Cyber Security student (currently studying Cyber Security part-time)
 
 [CEH Pratical]
 - <b>[Network Scanning and Identification of Live Systems]() (即時系統的網路掃描和識別)</b>
-- <b>[Phishing Awareness Campaign]() (網路釣魚意識活動)</b>
-- <b>[Network Penetration Testing]() (網路滲透測試)</b>
+- <b>[Creating a Phishing Awareness Simulation Using WAMP Server]() (使用 WAMP 伺服器建立網路釣魚意識模擬)</b>
+- <b>[How to Identify Open Ports with NMAP]() (如何使用 NMAP 識別開放端口)</b>
 - <b>[Creating and Deploying a Trojan with Metasploit]() (使用 Metasploit 建立和部署特洛伊木馬)</b>
 
 Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900) </b>
