@@ -24,13 +24,13 @@ Cyber Security student (currently studying Cyber Security part-time)
 - <b>[Understanding Man-in-the-Middle Attacks with Wireshark]() (藉由 Wireshark 了解中間人攻擊)</b>
 
 
-Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900) </b>
+[Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900)] </b>
 
 [[ISO27001]]()
 
-[PMP]()
+[[PMP]]()
 
-[Google IT Support Professional](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)
+[[Google IT Support Professional]](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)
 
 [[Google Cybersecurity Professional]](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
 
