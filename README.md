@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jeff ! </h1>
 Cyber Security student (currently studying Cyber Security part-time)
 
-<h2>👨‍💻 Projects and Hands-on labs 專題與手做實驗室</h2>
+<h2>👨‍💻 Projects and Hands-on Practices 專題與動手實踐</h2>
 
 [Cybersecurity]
 - <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
