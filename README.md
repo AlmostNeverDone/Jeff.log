@@ -1,7 +1,7 @@
-<h1>Hi, I'm Jeff ! </h1>
-Cyber Security student (currently studying Cyber Security part-time)
+<h1>Hi, I'm Jeff !! </h1>
+Cyber Security Learner (currently studying Cyber Security part-time)
 
-<h2>👨‍💻 Projects and Hands-on Practices 專題與動手實踐</h2>
+<h2>👨‍💻 Projects and Hands-on Labs 專題與動手實踐</h2>
 
 [Cybersecurity]
 - <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
@@ -13,8 +13,12 @@ Cyber Security student (currently studying Cyber Security part-time)
 
 <h2>👨‍💻 Tool Sets 工具集</h2>
 
-- <b>[Copilot for Cybersecurity]() (利用 Copilot 實現網路安全)</b>
-
+- <b>[Wireshark]()</b>
+- <b>[NMAP]()</b>
+- <b>[WAMP server]()</b>
+- <b>[MySQL]()</b>
+- <b>[Gemini]()</b>
+- <b>[Copilot]()</b>
 
 
 
@@ -29,6 +33,8 @@ Cyber Security student (currently studying Cyber Security part-time)
 
 
 [Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900)] </b>
+- <b>[Copilot for Cybersecurity]() (利用 Copilot 實現網路安全)</b>
+
 
 [[ISO27001]]()
 
