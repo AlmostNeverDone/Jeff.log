@@ -22,7 +22,7 @@ Cyber Security Learner (currently studying Cyber Security part-time)
 
 
 
-<h2>[Under preparation 以下整理中]</h2>
+<h2>[Coming Soon 即將推出]</h2>
 
 [CEH Pratical]
 - <b>[Network Scanning and Identification of Live Systems]() (即時系統的網路掃描和識別)</b>
