@@ -22,7 +22,7 @@ Cyber Security Learner (currently studying Cyber Security part-time)
 
 
 
-<h2>[Coming Soon 即將推出]</h2>
+<h2>📝Coming Soon 即將推出</h2>
 
 - <b>[Interrogating Network Traffic With Capture and Display Filters - Tcpdump]() (使用捕獲和顯示過濾器詢問網路流量 - Tcpdump)</b>
 
