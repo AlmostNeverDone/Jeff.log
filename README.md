@@ -7,9 +7,8 @@ Cyber Security Learner (currently studying Cyber Security part-time)
 - <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
 - <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) (初學 Wireshark - 擷取封包)</b>
 - <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) (將 Wireshark 用於基本網路安全分析)</b>
-- <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) (使用Nmap進行漏洞掃描 - 網路掃描)</b>
-
-
+- <b>[Use generative AI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware) (使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
+- <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) (使用 Nmap 進行漏洞掃描 - 網路掃描)</b>
 
 <h2>🛠 Tool Sets 工具集</h2>
 
@@ -48,4 +47,4 @@ Cyber Security Learner (currently studying Cyber Security part-time)
 [[Google Cybersecurity Professional]](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
 
 <b>-Includes Linux, MySQL, and Python hands-on labs. (包括 Linux、MySQL 和 Python 虛擬實驗室)</b>
-- <b>[Use generative AI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware) (使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
+
