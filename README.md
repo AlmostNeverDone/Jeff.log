@@ -18,9 +18,9 @@ Cyber Security Learner (currently studying Cyber Security part-time)
 - <b>[MySQL]()</b>
 - <b>[Gemini]()</b>
 - <b>[Copilot]()</b>
-- <b>[Proofpoint Security Awareness Training]()</b>
-- <b>[Proofpoint Insider Threat Management on-prem]()</b>
-- <b>[safetica on-prem]()</b>
+- <b>[Proofpoint Security Awareness Training(PSAT)]()</b>
+- <b>[Proofpoint Insider Threat Management (ITM on-prem)]()</b>
+- <b>[safetica (on-prem)]()</b>
 
 <h2>📝Coming Soon 即將推出</h2>
 
