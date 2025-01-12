@@ -46,5 +46,5 @@ Cyber Security Learner (currently studying Cyber Security part-time)
 
 [[Google Cybersecurity Professional]](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
 
-<b>-Includes Linux, MySQL, and Python hands-on labs. (包括 Linux、MySQL 和 Python 虛擬實驗室)</b>
+
 
