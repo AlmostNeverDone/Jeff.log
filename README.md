@@ -21,6 +21,8 @@ Cyber Security Learner (currently studying Cyber Security part-time)
 - <b>[Proofpoint Security Awareness Training (PSAT)]()</b>
 - <b>[Proofpoint Insider Threat Management (ITM on-prem)]()</b>
 - <b>[safetica (on-prem)]()</b>
+- <b>[Google Dorking (Google hacking)]()</b>
+
 
 <h2>📝Coming Soon 即將推出</h2>
 
