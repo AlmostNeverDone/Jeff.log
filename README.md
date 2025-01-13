@@ -23,7 +23,7 @@ Cyber Security Learner (currently studying Cyber Security part-time)
 - <b>[Proofpoint Insider Threat Management (ITM on-prem)]()</b>
 - <b>[safetica (on-prem)]()</b>
 - <b>[Google Dorking (Google hacking)]()</b>
-
+- <b>[Metasploit]()</b>
 
 <h2>📝Coming Soon 即將推出</h2>
 
