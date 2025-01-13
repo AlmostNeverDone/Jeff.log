@@ -9,6 +9,7 @@ Cyber Security Learner (currently studying Cyber Security part-time)
 - <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) (將 Wireshark 用於基本網路安全分析)</b>
 - <b>[Use generative AI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware) (使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
 - <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) (使用 Nmap 進行漏洞掃描 - 網路掃描)</b>
+- <b>[Metasploit for Beginners - Ethical Penetration Testing](https://github.com/AlmostNeverDone/Project-Metasploit-for-Beginners-Ethical-Penetration-Testing)  (Metasploit 初學者 - 道德滲透測試)</b>
 
 <h2>🛠 Tool Sets 工具集</h2>
 
@@ -26,7 +27,7 @@ Cyber Security Learner (currently studying Cyber Security part-time)
 
 <h2>📝Coming Soon 即將推出</h2>
 
-- <b>[Metasploit for Beginners - Ethical Penetration Testing]()  (Metasploit 初學者 - 道德滲透測試)</b>
+
 - <b>[Interrogating Network Traffic With Capture and Display Filters - Tcpdump]() (使用捕獲和顯示過濾器詢問網路流量 - Tcpdump)</b>
 
 
