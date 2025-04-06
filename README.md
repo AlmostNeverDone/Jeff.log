@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jeff !! </h1>
-Cyber Security Learner (currently studying Cyber Security part-time)
+Cyber Security Learner (currently studying Cyber Security full-time)
 
 <h2>👨‍💻 Projects and Hands-on Labs 專題與動手實踐</h2>
 
