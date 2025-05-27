@@ -30,6 +30,7 @@ Cyber Security Learner (currently studying Cyber Security full-time)
 
 - <b>[Interrogating Network Traffic With Capture and Display Filters - Tcpdump]() (使用捕獲和顯示過濾器詢問網路流量 - Tcpdump)</b>
 
+[Azure Cloud]
 
 [CEH Practical]
 
