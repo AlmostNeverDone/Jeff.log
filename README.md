@@ -27,7 +27,7 @@ Cyber Security Learner (currently studying Cyber Security full-time)
 
 <h2>🎓 Courses Workshops 課程工作坊</h2>
 
-- <b>[Securing Networks]()(保護網路安全)</b>
+- <b>[Securing Networks]() (保護網路安全)</b>
 
 <h2>📝Coming Soon 即將推出</h2>
 
