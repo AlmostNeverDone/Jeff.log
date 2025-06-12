@@ -25,9 +25,6 @@ Cyber Security Learner (currently studying Cyber Security full-time)
 - <b>[Google Dorking (Google hacking)]()</b>
 - <b>[Metasploit]()</b>
 
-<h2>🎓 Courses Workshops 課程工作坊</h2>
-
-- <b>[Securing Networks]() (保護網路安全)</b>
 
 <h2>📝Coming Soon 即將推出</h2>
 
@@ -49,5 +46,8 @@ Cyber Security Learner (currently studying Cyber Security full-time)
 
 [[Google Cybersecurity Professional]](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
 
+<h2>🎓 Courses Workshops 課程工作坊</h2>
+
+- <b>[Securing Networks]() (保護網路安全)</b>
 
 
