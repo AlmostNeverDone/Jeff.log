@@ -15,7 +15,6 @@ Cyber Security Learner (currently studying Cyber Security full-time)
 
 - <b>[Wireshark]()</b>
 - <b>[NMAP]()</b>
-- <b>[WAMP server]()</b>
 - <b>[MySQL]()</b>
 - <b>[Gemini]()</b>
 - <b>[Copilot]()</b>
