@@ -11,7 +11,7 @@ Cyber Security Learner (currently studying Cyber Security full-time)
 - <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) (初學 Wireshark - 擷取封包)</b>
 - <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
 
-[Project Management]
+
 
 <h2>🛠 Tool Sets 工具集</h2>
 
@@ -31,6 +31,11 @@ Cyber Security Learner (currently studying Cyber Security full-time)
 
 
 - <b>[Interrogating Network Traffic With Capture and Display Filters - Tcpdump]() (使用捕獲和顯示過濾器詢問網路流量 - Tcpdump)</b>
+
+[Project Management]
+- <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/Project-Management-Creating-the-WBS) (專案管理：建立 WBS)</b>
+- <b>[Microsoft Project for Beginners: Create Simple Project Plans](https://github.com/AlmostNeverDone/Microsoft-Project-for-Beginners-Create-Simple-Project-Plans) (Microsoft Project 初學者指南：建立簡單的專案計劃)</b>
+
 
 [Azure Cloud]
 
