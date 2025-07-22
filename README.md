@@ -1,10 +1,10 @@
 <h1>Hi, I'm Jeff !! </h1>
 
-A master's student in Cyber Security (currently studying Cyber Security full-time), fluent in both English and Traditional Chinese. Dedicated to continuous professional development and places a strong emphasis on hands-on, practical training.
+A master's student in Cyber Security (currently studying full-time), fluent in both English and Traditional Chinese. Dedicated to continuous professional development and places a strong emphasis on hands-on, practical training.
 
 
 
-網路安全碩士生（目前正在全心學習網路安全專業），精通英語和繁體中文。致力於持續專業發展，並專注於實踐操作培訓。
+網路安全碩士生(目前正全職學習)，精通英語和繁體中文。致力於持續專業發展，並專注於實踐操作培訓。
 
 <h2>👨‍💻 Projects and Hands-on Labs 專題與動手實踐</h2>
 
