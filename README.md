@@ -4,7 +4,7 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 
 
 
-網路安全碩士生(目前正全職學習)，英語和繁體中文(普通話)流利。致力於持續專業發展，並專注於將實踐與理論結合。
+網路安全碩士生(目前正全心投入學習)，英語和繁體中文(普通話)流利。致力於持續專業發展，並專注於將實踐與理論結合。
 
 <h2>👨‍💻 Projects and Hands-on Labs 專題與動手實踐</h2>
 
