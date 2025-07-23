@@ -1,10 +1,10 @@
 <h1>Hi, I'm Jeff !! </h1>
 
-A master's student in Cyber Security (currently studying full-time), fluent in both English and Traditional Chinese. Dedicated to continuous professional development and places a strong emphasis on hands-on, practical training.
+A master's student in Cyber Security (currently studying full-time), fluent in both English and Traditional Chinese(Mandarin). Dedicated to continuous professional development and focused on integrating practice with theory.
 
 
 
-網路安全碩士生(目前正全職學習)，精通英語和繁體中文。致力於持續專業發展，並專注於實踐操作培訓。
+網路安全碩士生(目前正全職學習)，英語和繁體中文(普通話)流利。致力於持續專業發展，並專注於將實踐與理論結合。
 
 <h2>👨‍💻 Projects and Hands-on Labs 專題與動手實踐</h2>
 
@@ -22,16 +22,17 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 
 <h2>🛠 Tool Sets 工具集</h2>
 
-- <b>[Wireshark]()</b>
-- <b>[NMAP]()</b>
-- <b>[MySQL]()</b>
-- <b>[Gemini]()</b>
-- <b>[Copilot]()</b>
-- <b>[Proofpoint Security Awareness Training (PSAT)]()</b>
-- <b>[Proofpoint Insider Threat Management (ITM on-prem)]()</b>
-- <b>[safetica (on-prem)]()</b>
-- <b>[Google Dorking (Google hacking)]()</b>
-- <b>[Metasploit]()</b>
+- <b>[Wireshark]</b>
+- <b>[NMAP]</b>
+- <b>[MySQL]</b>
+- <b>[Gemini]</b>
+- <b>[Copilot]</b>
+- <b>[Proofpoint Security Awareness Training (PSAT)]</b>
+- <b>[Proofpoint Insider Threat Management (ITM on-prem)]</b>
+- <b>[safetica (on-prem)]</b>
+- <b>[Google Dorking (Google hacking)]</b>
+- <b>[Metasploit]</b>
+- <b>[Azure Cloud]</b>
 
 
 <h2>📝Coming Soon 即將推出</h2>
@@ -44,8 +45,6 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/Project-Management-Creating-the-WBS) (專案管理：建立 WBS)</b>
 
 
-
-[Azure Cloud]
 
 [CEH Practical]
 
