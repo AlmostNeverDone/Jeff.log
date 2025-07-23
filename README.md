@@ -62,5 +62,5 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 <h2>🎓 Courses Workshops 課程工作坊</h2>
 
 - <b>[Securing Networks]() (保護網路安全)</b>
-
+- <b>[IS/ICT Project Management]() (IS/ICT專案管理)</b>
 
