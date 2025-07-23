@@ -38,7 +38,7 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 <h2>📝Coming Soon 即將推出</h2>
 
 
-- <b>[Interrogating Network Traffic With Capture and Display Filters - Tcpdump]() (使用捕獲和顯示過濾器詢問網路流量 - Tcpdump)</b>
+- <b>[Interrogating Network Traffic With Capture and Display Filters - Tcpdump] (使用捕獲和顯示過濾器詢問網路流量 - Tcpdump)</b>
 
 [Project Management]
 - <b>[Microsoft Project for Beginners: Create Simple Project Plans](https://github.com/AlmostNeverDone/Microsoft-Project-for-Beginners-Create-Simple-Project-Plans) (Microsoft Project 初學者指南：建立簡單的專案計劃)</b>
