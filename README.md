@@ -16,6 +16,8 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 - <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) (初學 Wireshark - 擷取封包)</b>
 - <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
 
+[Cloud]
+- <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) (Azure：建立虛擬機器並部署 Web 伺服器)</b>
 
 
 <h2>🛠 Tool Sets 工具集</h2>
