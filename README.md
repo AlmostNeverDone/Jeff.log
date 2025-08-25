@@ -24,18 +24,36 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 
 <h2>🛠 Tool Sets 工具集</h2>
 
-- <b>[Wireshark]</b>
-- <b>[NMAP]</b>
-- <b>[MySQL]</b>
-- <b>[Attack tree]</b>
-- <b>[Gemini]</b>
-- <b>[Copilot]</b>
-- <b>[Proofpoint Security Awareness Training (PSAT)]</b>
-- <b>[Proofpoint Insider Threat Management (ITM on-prem)]</b>
-- <b>[safetica (on-prem)]</b>
-- <b>[Google Dorking (Google hacking)]</b>
-- <b>[Metasploit]</b>
-- <b>[Azure Cloud]</b>
+[Security Solutions & Defense Tools (資安產品與防禦解決方案)]
+- <b>Proofpoint Security Awareness Training (PSAT)</b>
+- <b>Proofpoint Insider Threat Management (ITM on-prem)</b>
+- <b>safetica (on-prem)</b>
+
+[Network Traffic Analysis & Monitoring (網路流量分析與監控)]
+- <b>Wireshark</b>
+- <b>Google Dorking (Google hacking)</b>
+
+[Penetration Testing & Offensive Security (滲透測試與攻擊模擬)]
+- <b>NMAP</b>
+- <b>Attack tree</b>
+- <b>Metasploit</b>
+
+[Programming & Scripting (程式語言與腳本自動化)]
+- <b>Bash</b>
+- <b>Python</b>
+
+[Database & Backend (資料庫與後端)]
+- <b>MySQL</b>
+
+[Cloud & Emerging Tools (雲端與新興工具)]
+- <b>Azure Cloud</b>
+- <b>Gemini</b>
+- <b>Copilot</b>
+
+
+
+
+
 
 
 
