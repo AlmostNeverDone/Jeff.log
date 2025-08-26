@@ -51,13 +51,13 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 - <b>Copilot</b>
 
 
-<h2>🥋 Certifications and digital badges 認證和數位徽章</h2>
+<h2>🥋 Certifications and Digital Badges 認證和數位徽章</h2>
 
-- <b>[ISO 27001 Lead Auditor 主導審核員] </b>
+- <b>[ISO 27001] Lead Auditor 主導審核員 </b>
 
-- <b>[[Google Cybersecurity Professional 谷歌網路安全專家]](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
+- <b>[Google Cybersecurity Professional 谷歌網路安全專家](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
 
-- <b>[[Google IT Support Professional 谷歌IT支援專家]](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)</b>
+- <b>[Google IT Support Professional 谷歌IT支援專家](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)</b>
 
 - <b>[Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900)](https://learn.microsoft.com/api/credentials/share/en-au/JeffLin-1361/28722A529DF97731?sharingId=C3AF92A7C9C694F2) </b>
 
