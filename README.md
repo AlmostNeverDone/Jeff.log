@@ -53,7 +53,7 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 
 <h2>🥋 Certifications and digital badges 認證和數位徽章</h2>
 
-- <b>[ISO 27001 Lead Auditor ISO 27001 主導審核員] </b>
+- <b>[ISO 27001 Lead Auditor 主導審核員] </b>
 
 - <b>[[Google Cybersecurity Professional 谷歌網路安全專家]](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
 
