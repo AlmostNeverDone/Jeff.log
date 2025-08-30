@@ -22,6 +22,17 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 [Project Management]
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) (專案管理：建立 WBS)</b>
 
+<h2>🎓 Courses Workshops 課程工作坊</h2>
+
+[Securing Networks(保護網路安全)]
+- <b>[Certificate Management and Automation with OpenSSL and Bash](https://github.com/AlmostNeverDone/SN104) (憑證管理與自動化實作)</b>
+- <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) (使用 DVWA 進行 SQL 注入攻擊演練)</b>
+- <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
+
+[IS/ICT Project Management(IS/ICT專案管理)]
+- <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) (專案管理：建立 WBS)</b>
+
+
 <h2>🛠 Tool Sets 工具集</h2>
 
 [Security Solutions & Defense Tools (資安產品與防禦解決方案)]
@@ -90,9 +101,4 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 [PMP] </b>
 
 
-
-<h2>🎓 Courses Workshops 課程工作坊</h2>
-
-- <b>[Securing Networks]() (保護網路安全)</b>
-- <b>[IS/ICT Project Management]() (IS/ICT專案管理)</b>
 
