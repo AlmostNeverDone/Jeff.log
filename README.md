@@ -28,6 +28,7 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 - <b>[Certificate Management and Automation with OpenSSL and Bash](https://github.com/AlmostNeverDone/SN104) (憑證管理與自動化實作)</b>
 - <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) (使用 DVWA 進行 SQL 注入攻擊演練)</b>
 - <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
+- <b>[Virus Scanning Setup and Automation using ClamAV in Linux](https://github.com/AlmostNeverDone/SN107) (在 Linux 系統中使用 ClamAV 進行病毒掃描與自動化設定)</b>
 
 [IS/ICT Project Management(IS/ICT專案管理)]
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) (專案管理：建立 WBS)</b>
