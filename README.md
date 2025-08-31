@@ -22,7 +22,7 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 [Project Management]
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) (專案管理：建立 WBS)</b>
 
-<h2>🎓 Courses Workshops 課程工作坊</h2>
+<h2>🎓 UniSQ Courses Workshops 課程實作</h2>
 
 [Securing Networks(保護網路安全)]
 - <b>[Certificate Management and Automation with OpenSSL and Bash](https://github.com/AlmostNeverDone/SN104) (憑證管理與自動化實作)</b>
