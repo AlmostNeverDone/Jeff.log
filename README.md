@@ -15,12 +15,15 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 - <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) (將 Wireshark 用於基本網路安全分析)</b>
 - <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) (初學 Wireshark - 擷取封包)</b>
 - <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
+<br/>
 
 [Cloud]
 - <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) (Azure：建立虛擬機器並部署 Web 伺服器)</b>
+<br/>
 
 [Project Management]
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) (專案管理：建立 WBS)</b>
+<br/>
 
 <h2>🎓 UniSQ Courses Workshops 課程實作</h2>
 
@@ -29,10 +32,11 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 - <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) (使用 DVWA 進行 SQL 注入攻擊演練)</b>
 - <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
 - <b>[Virus Scanning Setup and Automation using ClamAV in Linux](https://github.com/AlmostNeverDone/SN107) (在 Linux 系統中使用 ClamAV 進行病毒掃描與自動化設定)</b>
+<br/>
 
 [IS/ICT Project Management(IS/ICT專案管理)]
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) (專案管理：建立 WBS)</b>
-
+<br/>
 
 <h2>🛠 Tool Sets 工具集</h2>
 
@@ -40,28 +44,33 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 - <b>Proofpoint Security Awareness Training (PSAT)</b>
 - <b>Proofpoint Insider Threat Management (ITM on-prem)</b>
 - <b>safetica (on-prem)</b>
+<br/>
 
 [Network Traffic Analysis & Monitoring (網路流量分析與監控)]
 - <b>Wireshark</b>
 - <b>Google Dorking (Google hacking)</b>
+<br/>
 
 [Penetration Testing & Offensive Security (滲透測試與攻擊模擬)]
 - <b>NMAP</b>
 - <b>Attack tree</b>
 - <b>Metasploit</b>
+<br/>
 
 [Programming & Scripting (程式語言與腳本自動化)]
 - <b>Bash</b>
 - <b>Python</b>
+<br/>
 
 [Database & Backend (資料庫與後端)]
 - <b>MySQL</b>
+<br/>
 
 [Cloud & Emerging Tools (雲端與新興工具)]
 - <b>Azure Cloud</b>
 - <b>Gemini</b>
 - <b>Copilot</b>
-
+<br/>
 
 <h2>🥋 Certifications and Digital Badges 認證和數位徽章</h2>
 
