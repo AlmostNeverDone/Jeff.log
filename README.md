@@ -43,7 +43,7 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 [Security Solutions & Defense Tools (資安產品與防禦解決方案)]
 - <b>Proofpoint Security Awareness Training (PSAT)</b>
 - <b>Proofpoint Insider Threat Management (ITM on-prem)</b>
-- <b>safetica (on-prem)</b>
+- <b>safetica DLP (on-prem)</b>
 <br/>
 
 [Network Traffic Analysis & Monitoring (網路流量分析與監控)]
