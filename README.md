@@ -71,6 +71,12 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 - <b>Copilot</b>
 <br/>
 
+[Project Management (專案管理)]
+- <b>Risk Management Plan</b>
+- <b>Work Breakdown Structure(WBS)</b>
+- <b>Microsoft project</b>
+<br/>
+
 <h2>🥋 Certifications and Digital Badges 認證和數位徽章</h2>
 
 - <b>[ISO 27001] Lead Auditor 主導審核員 </b>
