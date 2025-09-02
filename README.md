@@ -47,13 +47,13 @@ A postgraduate student in Cyber Security (currently studying full-time), fluent 
 
 [Network Traffic Analysis & Monitoring (網路流量分析與監控)]
 - <b>Wireshark</b>
-- <b>Google Dorking (Google hacking)</b>
 <br/>
 
 [Penetration Testing & Offensive Security (滲透測試與攻擊模擬)]
 - <b>NMAP</b>
 - <b>Attack tree</b>
 - <b>Metasploit</b>
+- <b>Google Dorking (Google hacking)</b>
 <br/>
 
 [Programming & Scripting (程式語言與腳本自動化)]
