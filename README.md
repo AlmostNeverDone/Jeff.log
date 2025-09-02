@@ -21,9 +21,7 @@ A master's student in Cyber Security (currently studying full-time), fluent in b
 - <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) (Azure：建立虛擬機器並部署 Web 伺服器)</b>
 <br/>
 
-[Project Management]
-- <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) (專案管理：建立 WBS)</b>
-<br/>
+
 
 <h2>🎓 UniSQ Courses Workshops 課程實作</h2>
 
