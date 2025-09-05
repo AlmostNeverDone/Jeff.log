@@ -49,6 +49,7 @@ A postgraduate student in Cyber Security (currently studying full-time), fluent 
 
 [Network Traffic Analysis & Monitoring (網路流量分析與監控)]
 - <b>Wireshark</b>
+- <b>Tcpdump</b>
 <br/>
 
 [Penetration Testing & Offensive Security (滲透測試與攻擊模擬)]
