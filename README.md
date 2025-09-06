@@ -26,6 +26,7 @@ A postgraduate student in Cyber Security (currently studying full-time), fluent 
 <h2>🎓 UniSQ Courses Workshops 課程實作</h2>
 
 [Securing Networks(保護網路安全)]
+- <b>[Exploring Cryptographic Tools with OpenSSL](https://github.com/AlmostNeverDone/SN101) (使用 OpenSSL 探索加密工具)</b>
 - <b>[Certificate Management and Automation with OpenSSL and Bash](https://github.com/AlmostNeverDone/SN104) (憑證管理與自動化實作)</b>
 - <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) (使用 DVWA 進行 SQL 注入攻擊演練)</b>
 - <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
