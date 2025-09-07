@@ -66,6 +66,10 @@ A postgraduate student in Cyber Security (currently studying full-time), fluent 
 - <b>Google Dorking (Google hacking)</b>
 <br/>
 
+[Intrusion Detection & Prevention (入侵偵測與防禦)]
+- <b>Snort</b>
+<br/>
+
 [Programming & Scripting (程式語言與腳本自動化)]
 - <b>Bash</b>
 - <b>Python</b>
