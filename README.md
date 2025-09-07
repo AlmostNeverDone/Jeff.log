@@ -54,6 +54,11 @@ A postgraduate student in Cyber Security (currently studying full-time), fluent 
 - <b>Tcpdump</b>
 <br/>
 
+[Network Simulation & System Design (網路模擬與系統設計)]
+- <b>Cisco Packet Tracer</b>
+- <b>GNS3</b>
+<br/>
+
 [Penetration Testing & Offensive Security (滲透測試與攻擊模擬)]
 - <b>NMAP</b>
 - <b>Attack tree</b>
