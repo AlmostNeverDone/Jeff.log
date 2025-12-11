@@ -8,19 +8,29 @@ A postgraduate student in Cyber Security (currently studying full-time), fluent 
 
 <h2>👨‍💻 Projects and Hands-on Labs 專題與動手實踐</h2>
 
-[Cybersecurity]
-- <b>[Metasploit for Beginners - Ethical Penetration Testing](https://github.com/AlmostNeverDone/Project-Metasploit-for-Beginners-Ethical-Penetration-Testing)  (Metasploit 初學者 - 道德滲透測試)</b>
-- <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) (使用 Nmap 進行漏洞掃描 - 網路掃描)</b>
-- <b>[Use GenAI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware)(使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
-- <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) (將 Wireshark 用於基本網路安全分析)</b>
-- <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) (初學 Wireshark - 擷取封包)</b>
-- <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
+[Network Traffic Analysis (網路流量分析)]
 - <b>[Decrypting RDP connections](https://github.com/AlmostNeverDone/TA106) (解密 RDP 連線)</b>
 - <b>[Traffic Analysis Workflow](https://github.com/AlmostNeverDone/TA105) (流量分析工作流程)</b>
 - <b>[Packet Inception, Dissecting Network Traffic With Wireshark](https://github.com/AlmostNeverDone/TA104) (封包探勘：使用 Wireshark 剖析網路流量)</b>
 - <b>[Familiarity With Wireshark](https://github.com/AlmostNeverDone/TA103) (熟悉 Wireshark)</b>
 - <b>[Fundamentals of Packet Capture with tcpdump](https://github.com/AlmostNeverDone/TA101) (Tcpdump 封包擷取基礎實作)</b>
+- <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) (將 Wireshark 用於基本網路安全分析)</b>
+- <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) (初學 Wireshark - 擷取封包)</b>
 <br/>
+
+[Penetration Testing (滲透測試)]
+- <b>[Metasploit for Beginners - Ethical Penetration Testing](https://github.com/AlmostNeverDone/Project-Metasploit-for-Beginners-Ethical-Penetration-Testing)  (Metasploit 初學者 - 道德滲透測試)</b>
+- <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) (使用 Nmap 進行漏洞掃描 - 網路掃描)</b>
+<br/>
+
+[Threat Detection & Malware Awareness (威脅偵測與惡意軟體識別)]
+- <b>[Use GenAI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware)(使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
+<br/>
+
+[Endpoint & System Security (端點與系統安全)]
+- <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
+<br/>
+
 
 [Cloud]
 - <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) (Azure：建立虛擬機器並部署 Web 伺服器)</b>
