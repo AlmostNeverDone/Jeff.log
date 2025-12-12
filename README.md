@@ -26,7 +26,7 @@ A postgraduate student in Cyber Security (currently studying full-time), fluent 
 <br/>
 
 [Threat Detection & Malware Awareness (威脅偵測與惡意軟體識別)]
-- <b>[Use GenAI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware)(使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
+- <b>[Use GenAI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware) (使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
 <br/>
 <br/>
 
