@@ -12,11 +12,11 @@ A postgraduate student in Cyber Security (currently studying full-time), fluent 
 - <b>[Decrypting RDP connections](https://github.com/AlmostNeverDone/TA106) (解密 RDP 連線)</b>
 - <b>[Traffic Analysis Workflow](https://github.com/AlmostNeverDone/TA105) (流量分析工作流程)</b>
 - <b>[Packet Inception, Dissecting Network Traffic With Wireshark](https://github.com/AlmostNeverDone/TA104) (封包探勘：使用 Wireshark 剖析網路流量)</b>
-- <b>[Familiarity With Wireshark](https://github.com/AlmostNeverDone/TA103) (熟悉 Wireshark)</b>
 - <b>[Interrogating Network Traffic With Capture and Display Filters](https://github.com/AlmostNeverDone/TA102) (使用擷取和顯示過濾器查詢網路流量)</b>
 - <b>[Fundamentals of Packet Capture with tcpdump](https://github.com/AlmostNeverDone/TA101) (Tcpdump 封包擷取基礎實作)</b>
 - <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) (將 Wireshark 用於基本網路安全分析)</b>
 - <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) (初學 Wireshark - 擷取封包)</b>
+- <b>[Familiarity With Wireshark](https://github.com/AlmostNeverDone/TA103) (熟悉 Wireshark)</b>
 <br/>
 <br/>
 
