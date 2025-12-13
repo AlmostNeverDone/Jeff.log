@@ -139,12 +139,14 @@ A postgraduate student in Cyber Security (currently studying full-time), fluent 
  
 <h2>📝Coming Soon 即將推出</h2>
 
-
-- <b>[Microsoft Project for Beginners: Create Simple Project Plans](https://github.com/AlmostNeverDone/Microsoft-Project-for-Beginners-Create-Simple-Project-Plans) (Microsoft Project 初學者指南：建立簡單的專案計劃)</b>
+[SAL1]
 
 [CEH Practical]
 
-[PMP] </b>
+- <b>[Microsoft Project for Beginners: Create Simple Project Plans](https://github.com/AlmostNeverDone/Microsoft-Project-for-Beginners-Create-Simple-Project-Plans) (Microsoft Project 初學者指南：建立簡單的專案計劃)</b>
+
+
+
 
 
 
