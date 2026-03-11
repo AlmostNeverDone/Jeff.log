@@ -56,6 +56,10 @@ A postgraduate student in Cyber Security (currently studying full-time), fluent 
 - <b>[Exploring Cryptographic Tools with OpenSSL](https://github.com/AlmostNeverDone/SN101) (使用 OpenSSL 探索加密工具)</b>
 <br/>
 
+[Penetration Testing (滲透測試)]
+- <b>[Network Reconnaissance and Active Scanning with Nmap and Wireshark](https://github.com/AlmostNeverDone/PT101) (使用 Nmap 與 Wireshark 進行網路偵察與主動式掃描)</b>
+<br/>
+
 [IS/ICT Project Management(IS/ICT專案管理)]
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) (專案管理：建立 WBS)</b>
 <br/>
