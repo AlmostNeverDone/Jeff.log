@@ -1,8 +1,8 @@
-<h1>Hi, I'm Jeff !! </h1>
+<h1> Intro: whoami</h1>
 
-A postgraduate student in Cyber Security (currently studying full-time), fluent in both English and Traditional Chinese(Mandarin). Dedicated to continuous professional development and focused on integrating practice with theory.
+Hi, I'm Jeff. A postgraduate student in Cyber Security (currently studying full-time), fluent in both English and Traditional Chinese(Mandarin). Dedicated to continuous professional development and focused on integrating practice with theory.
 
-全職網路安全碩士，英語和繁體中文(普通話)流利。致力於結合實踐與理論以發展專業能力。
+我是Jeff。全職網路安全碩士，英語和繁體中文(普通話)流利。致力於結合實踐與理論以發展專業能力。
 <br/>
 <br/>
 
