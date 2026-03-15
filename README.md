@@ -2,7 +2,7 @@
 
 Hi, I'm Jeff. A postgraduate student from Taiwan🇹🇼. Currently studying Cyber Security full-time, fluent in both English and Traditional Chinese(Mandarin). Dedicated to continuous professional development and focused on integrating practice with theory.
 
-我是 Jeff。全職網路安全碩士，英語和繁體中文(普通話)流利。致力於結合實踐與理論以發展專業能力。
+大家好，我是 Jeff，來自台灣🇹🇼的研究生。目前全職攻讀網路安全專業，精通英語和繁體中文（國語）致力於結合實踐與理論以發展專業能力。
 <br/>
 <br/>
 
