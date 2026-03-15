@@ -9,35 +9,48 @@ Hi, I'm Jeff. A postgraduate student from Taiwan🇹🇼. Currently studying Cyb
 <h2>👨‍💻 Projects and Hands-on Labs 專題與動手實踐</h2>
 
 [Network Traffic Analysis (網路流量分析)]
-- <b>[Decrypting RDP connections](https://github.com/AlmostNeverDone/TA106) (解密 RDP 連線)</b>
-- <b>[Traffic Analysis Workflow](https://github.com/AlmostNeverDone/TA105) (流量分析工作流程)</b>
-- <b>[Packet Inception, Dissecting Network Traffic With Wireshark](https://github.com/AlmostNeverDone/TA104) (封包探勘：使用 Wireshark 剖析網路流量)</b>
-- <b>[Interrogating Network Traffic With Capture and Display Filters](https://github.com/AlmostNeverDone/TA102) (使用擷取和顯示過濾器查詢網路流量)</b>
-- <b>[Fundamentals of Packet Capture with tcpdump](https://github.com/AlmostNeverDone/TA101) (Tcpdump 封包擷取基礎實作)</b>
-- <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) (將 Wireshark 用於基本網路安全分析)</b>
-- <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) (初學 Wireshark - 擷取封包)</b>
-- <b>[Familiarity With Wireshark](https://github.com/AlmostNeverDone/TA103) (熟悉 Wireshark)</b>
+- <b>[Decrypting RDP connections](https://github.com/AlmostNeverDone/TA106) <br/>
+  (解密 RDP 連線)</b>
+- <b>[Traffic Analysis Workflow](https://github.com/AlmostNeverDone/TA105) <br/>
+  (流量分析工作流程)</b>
+- <b>[Packet Inception, Dissecting Network Traffic With Wireshark](https://github.com/AlmostNeverDone/TA104) <br/>
+  (封包探勘：使用 Wireshark 剖析網路流量)</b>
+- <b>[Interrogating Network Traffic With Capture and Display Filters](https://github.com/AlmostNeverDone/TA102) <br/>
+  (使用擷取和顯示過濾器查詢網路流量)</b>
+- <b>[Fundamentals of Packet Capture with tcpdump](https://github.com/AlmostNeverDone/TA101) <br/>
+  (Tcpdump 封包擷取基礎實作)</b>
+- <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) <br/>
+  (將 Wireshark 用於基本網路安全分析)</b>
+- <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) <br/>
+  (初學 Wireshark - 擷取封包)</b>
+- <b>[Familiarity With Wireshark](https://github.com/AlmostNeverDone/TA103) <br/>
+  (熟悉 Wireshark)</b>
 <br/>
 <br/>
 
 [Penetration Testing (滲透測試)]
-- <b>[Metasploit for Beginners - Ethical Penetration Testing](https://github.com/AlmostNeverDone/Project-Metasploit-for-Beginners-Ethical-Penetration-Testing)  (Metasploit 初學者 - 道德滲透測試)</b>
-- <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) (使用 Nmap 進行漏洞掃描 - 網路掃描)</b>
+- <b>[Metasploit for Beginners - Ethical Penetration Testing](https://github.com/AlmostNeverDone/Project-Metasploit-for-Beginners-Ethical-Penetration-Testing)  <br/>
+  (Metasploit 初學者 - 道德滲透測試)</b>
+- <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) <br/>
+  (使用 Nmap 進行漏洞掃描 - 網路掃描)</b>
 <br/>
 <br/>
 
 [Threat Detection & Malware Awareness (威脅偵測與惡意軟體識別)]
-- <b>[Use GenAI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware) (使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
+- <b>[Use GenAI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware) <br/>
+  (使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
 <br/>
 <br/>
 
 [Endpoint & System Security (端點與系統安全)]
-- <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) (Microsoft Windows Defender 與防火牆)</b>
+- <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) <br/>
+  (Microsoft Windows Defender 與防火牆)</b>
 <br/>
 <br/>
 
 [Cloud]
-- <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) (Azure：建立虛擬機器並部署 Web 伺服器)</b>
+- <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) <br/>
+  (Azure：建立虛擬機器並部署 Web 伺服器)</b>
 <br/>
 
 
@@ -45,23 +58,34 @@ Hi, I'm Jeff. A postgraduate student from Taiwan🇹🇼. Currently studying Cyb
 <h2>🎓 UniSQ Courses Workshops 課程實作</h2>
 
 [Securing Networks(保護網路安全)]
-- <b>[Snort 3 Intrusion Detection Practice](https://github.com/AlmostNeverDone/SN110) (Snort 3 入侵偵測實作)</b>
-- <b>[Implementing Extended IPv4 ACLs for Service-Based Traffic Control](https://github.com/AlmostNeverDone/SN109) (透過延伸 IPv4 ACL 實現基於服務的流量管制)</b>
-- <b>[Network Access Control with Extended ACLs](https://github.com/AlmostNeverDone/SN108) (使用擴展 ACL 實作網路存取控制)</b>
-- <b>[Virus Scanning Setup and Automation using ClamAV in Linux](https://github.com/AlmostNeverDone/SN107) (在 Linux 系統中使用 ClamAV 進行病毒掃描與自動化設定)</b>
-- <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
-- <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) (使用 DVWA 進行 SQL 注入攻擊演練)</b>
-- <b>[Certificate Management and Automation with OpenSSL and Bash](https://github.com/AlmostNeverDone/SN104) (憑證管理與自動化實作)</b>
-- <b>[RSA and DSA Public Key Cryptography Practice](https://github.com/AlmostNeverDone/SN103) (RSA 與 DSA 公開金鑰密碼學實作)</b>
-- <b>[Exploring Cryptographic Tools with OpenSSL](https://github.com/AlmostNeverDone/SN101) (使用 OpenSSL 探索加密工具)</b>
+- <b>[Snort 3 Intrusion Detection Practice](https://github.com/AlmostNeverDone/SN110) <br/>
+  (Snort 3 入侵偵測實作)</b>
+- <b>[Implementing Extended IPv4 ACLs for Service-Based Traffic Control](https://github.com/AlmostNeverDone/SN109) <br/>
+  (透過延伸 IPv4 ACL 實現基於服務的流量管制)</b>
+- <b>[Network Access Control with Extended ACLs](https://github.com/AlmostNeverDone/SN108) <br/>
+  (使用擴展 ACL 實作網路存取控制)</b>
+- <b>[Virus Scanning Setup and Automation using ClamAV in Linux](https://github.com/AlmostNeverDone/SN107) <br/>
+  (在 Linux 系統中使用 ClamAV 進行病毒掃描與自動化設定)</b>
+- <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) <br/>
+  (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
+- <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) <br/>
+  (使用 DVWA 進行 SQL 注入攻擊演練)</b>
+- <b>[Certificate Management and Automation with OpenSSL and Bash](https://github.com/AlmostNeverDone/SN104) <br/>
+  (憑證管理與自動化實作)</b>
+- <b>[RSA and DSA Public Key Cryptography Practice](https://github.com/AlmostNeverDone/SN103) <br/>
+  (RSA 與 DSA 公開金鑰密碼學實作)</b>
+- <b>[Exploring Cryptographic Tools with OpenSSL](https://github.com/AlmostNeverDone/SN101) <br/>
+  (使用 OpenSSL 探索加密工具)</b>
 <br/>
 
 [Penetration Testing (滲透測試)]
-- <b>[Network Reconnaissance and Active Scanning with Nmap and Wireshark](https://github.com/AlmostNeverDone/PT101) (使用 Nmap 與 Wireshark 進行網路偵察與主動式掃描)</b>
+- <b>[Network Reconnaissance and Active Scanning with Nmap and Wireshark](https://github.com/AlmostNeverDone/PT101) <br/>
+  (使用 Nmap 與 Wireshark 進行網路偵察與主動式掃描)</b>
 <br/>
 
 [IS/ICT Project Management(IS/ICT專案管理)]
-- <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) (專案管理：建立 WBS)</b>
+- <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) <br/>
+  (專案管理：建立 WBS)</b>
 <br/>
 
 <h2>🛠 Tool Sets 工具集</h2>
