@@ -1,8 +1,8 @@
 <h1> Intro: whoami</h1>
 
-Hi, I'm Jeff. A postgraduate student from Taiwan🇹🇼. Currently studying Cyber Security full-time, fluent in both English and Traditional Chinese(Mandarin). Dedicated to continuous professional development and focused on integrating practice with theory.
+Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying Cyber Security at the University of Southern Queensland full-time, fluent in both English and Traditional Chinese(Mandarin). Also, I conduct hands-on training in my spare time in order to combine theory with practice.
 
-大家好，我是 Jeff，來自台灣🇹🇼的研究生。目前全職攻讀網路安全專業，精通英語和繁體中文（國語）致力於結合實踐與理論以發展專業能力。
+大家好，我是 Jeff，來自台灣🇹🇼的國際生。目前在南昆士蘭大學全職學習網路安全，英語和普通話（繁體中文）都很流利。此外，我會在課餘時間進行實作訓練，以期將理論與實務結合。
 <br/>
 <br/>
 
