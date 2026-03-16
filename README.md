@@ -167,11 +167,12 @@ Hi, I'm Jeff. A postgraduate student from Taiwan🇹🇼. Currently studying Cyb
  
 <h2>📝Coming Soon 即將推出</h2>
 
-[SAL1]
+[TryHackMe] SAL1
 
-[CEH Practical]
+[EC-Council] CEH Practical
 
-- <b>[Microsoft Project for Beginners: Create Simple Project Plans](https://github.com/AlmostNeverDone/Microsoft-Project-for-Beginners-Create-Simple-Project-Plans) (Microsoft Project 初學者指南：建立簡單的專案計劃)</b>
+- <b>[Microsoft Project for Beginners: Create Simple Project Plans](https://github.com/AlmostNeverDone/Microsoft-Project-for-Beginners-Create-Simple-Project-Plans) <br/>
+  (Microsoft Project 初學者指南：建立簡單的專案計劃)</b>
 
 
 
