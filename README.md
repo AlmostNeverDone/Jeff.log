@@ -81,6 +81,8 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying C
 [Penetration Testing (滲透測試)]
 - <b>[Network Reconnaissance and Active Scanning with Nmap and Wireshark](https://github.com/AlmostNeverDone/PT101) <br/>
   (使用 Nmap 與 Wireshark 進行網路偵察與主動式掃描)</b>
+- <b>[Credential Attack on SSH Authentication using Hydra](https://github.com/AlmostNeverDone/PT102) <br/>
+  (使用 Hydra 對 SSH 認證服務進行憑證攻擊)</b>
 <br/>
 
 [IS/ICT Project Management(IS/ICT專案管理)]
