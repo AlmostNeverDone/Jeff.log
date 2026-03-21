@@ -166,8 +166,11 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
 - <b>[Proofpoint Security Awareness Training(PSAT) Technical Specialist PSAT技術專家](https://drive.google.com/file/d/15jxXGEMNql3PgqOZQKYRi6SxM0Z2OLqu/view?usp=drive_link)</b>
 <br/>
 
-- <b>[Fortinet Certified Fundamentals Cybersecurity 飛塔認證網路安全入門 (FCF)](https://www.credly.com/badges/f74b1753-3a81-4593-aeac-f9c6d32e3794/public_url)</b>
 
+[Fortinet (飛塔)]
+
+- <b>[Fortinet Certified Fundamentals Cybersecurity 飛塔認證網路安全入門 (FCF)](https://www.credly.com/badges/f74b1753-3a81-4593-aeac-f9c6d32e3794/public_url)</b>
+<br/>
 
 [IBM SkillsBuild]
 
