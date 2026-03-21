@@ -142,29 +142,46 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
 
 <h2>🥋 Certifications and Digital Badges 認證和數位徽章</h2>
 
-- <b>[ISO 27001] Lead Auditor 主導審核員 </b>
+
+[International Organization for Standardization (國際標準化組織)]
+
+- <b>[ISO27001 Lead Auditor 主導審核員](https://drive.google.com/file/d/1tCz14xyDbOqMI8Qy595ThurOc5ZHOmy2/view?usp=drive_link)</b>
+<br/>
+
+[Coursera Google]
 
 - <b>[Google Cybersecurity Professional 谷歌網路安全專家](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
 
 - <b>[Google IT Support Professional 谷歌IT支援專家](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)</b>
+<br/>
+
+[Microsoft]
 
 - <b>[Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900)](https://learn.microsoft.com/api/credentials/share/en-au/JeffLin-1361/28722A529DF97731?sharingId=C3AF92A7C9C694F2) </b>
+<br/>
+
+[Proofpoint]
 
 - <b>[Proofpoint Certified Phishing Specialist 2024 Proofpoint 認證網路釣魚專家 2024](https://www.credly.com/badges/affb6a26-b5f9-48c9-9458-2b0895ee1e25/public_url)</b>
+- <b>[Proofpoint Security Awareness Training(PSAT) Technical Specialist PSAT技術專家](https://drive.google.com/file/d/15jxXGEMNql3PgqOZQKYRi6SxM0Z2OLqu/view?usp=drive_link)</b>
+<br/>
 
 - <b>[Fortinet Certified Fundamentals Cybersecurity 飛塔認證網路安全入門 (FCF)](https://www.credly.com/badges/f74b1753-3a81-4593-aeac-f9c6d32e3794/public_url)</b>
 
-- <b>[IBM SkillsBuild Cybersecurity Fundamentals 網路安全基礎](https://www.credly.com/badges/3fbca080-04f8-4768-a23a-1daa0b75d10f/public_url)</b>
 
-- <b>[IBM SkillsBuild Cloud Computing Fundamentals 雲端運算基礎](https://www.credly.com/badges/cfab4d29-e79a-4626-ad05-37e14d4724c9/public_url)</b>
+[IBM SkillsBuild]
 
-- <b>[IBM SkillsBuild Information Technology Fundamentals 資訊科技基礎](https://www.credly.com/badges/e5444641-b78a-4838-b648-05e71fe8690a/public_url)</b>
+- <b>[Cybersecurity Fundamentals 網路安全基礎](https://www.credly.com/badges/3fbca080-04f8-4768-a23a-1daa0b75d10f/public_url)</b>
 
-- <b>[IBM SkillsBuild Working in a Digital World: Professional Skills 在數位世界中工作：專業技能](https://www.credly.com/badges/924c3072-38f9-4853-99fd-5c352f9ebd68/public_url)</b>
+- <b>[Cloud Computing Fundamentals 雲端運算基礎](https://www.credly.com/badges/cfab4d29-e79a-4626-ad05-37e14d4724c9/public_url)</b>
 
-- <b>[IBM SkillsBuild Project Management Fundamentals 專案管理基礎](https://www.credly.com/badges/2b51724e-75f6-4d47-ba2c-7da20cee26d3/public_url)</b>
+- <b>[Information Technology Fundamentals 資訊科技基礎](https://www.credly.com/badges/e5444641-b78a-4838-b648-05e71fe8690a/public_url)</b>
 
-- <b>[IBM SkillsBuild Agile Explorer 敏捷探索者](https://www.credly.com/badges/1c401d06-c8d9-4351-a6cf-fb13cf0323f0/public_url)</b>
+- <b>[Working in a Digital World: Professional Skills 在數位世界中工作：專業技能](https://www.credly.com/badges/924c3072-38f9-4853-99fd-5c352f9ebd68/public_url)</b>
+
+- <b>[Project Management Fundamentals 專案管理基礎](https://www.credly.com/badges/2b51724e-75f6-4d47-ba2c-7da20cee26d3/public_url)</b>
+
+- <b>[Agile Explorer 敏捷探索者](https://www.credly.com/badges/1c401d06-c8d9-4351-a6cf-fb13cf0323f0/public_url)</b>
 <br/>
  
 <h2>📝Coming Soon 即將推出</h2>
