@@ -33,6 +33,42 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
   (Metasploit 初學者 - 道德滲透測試)</b>
 - <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) <br/>
   (使用 Nmap 進行漏洞掃描 - 網路掃描)</b>
+- <b>[Network Reconnaissance and Active Scanning with Nmap and Wireshark](https://github.com/AlmostNeverDone/PT101) <br/>
+  (使用 Nmap 與 Wireshark 進行網路偵察與主動式掃描)</b>
+- <b>[Credential Attack on SSH Authentication using Hydra](https://github.com/AlmostNeverDone/PT102) <br/>
+  (使用 Hydra 對 SSH 認證服務進行憑證攻擊)</b>
+- <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) <br/>
+  (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
+- <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) <br/>
+  (使用 DVWA 進行 SQL 注入攻擊演練)</b>
+<br/>
+<br/>
+
+[Network Security & Access Control（網路安全與存取控制）]
+- <b>[Implementing Extended IPv4 ACLs for Service-Based Traffic Control](https://github.com/AlmostNeverDone/SN109) <br/>
+  (透過延伸 IPv4 ACL 實現基於服務的流量管制)</b>
+- <b>[Network Access Control with Extended ACLs](https://github.com/AlmostNeverDone/SN108) <br/>
+  (使用擴展 ACL 實作網路存取控制)</b>
+- <b>[Snort 3 Intrusion Detection Practice](https://github.com/AlmostNeverDone/SN110) <br/>
+  (Snort 3 入侵偵測實作)</b>
+<br/>
+<br/>
+
+[System Security & Administration（系統安全與管理）]
+- <b>[Virus Scanning Setup and Automation using ClamAV in Linux](https://github.com/AlmostNeverDone/SN107) <br/>
+  (在 Linux 系統中使用 ClamAV 進行病毒掃描與自動化設定)</b>
+- <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) <br/>
+  (Microsoft Windows Defender 與防火牆)</b>
+<br/>
+<br/>
+
+[Cryptography & PKI（密碼學與憑證管理）]
+- <b>[Certificate Management and Automation with OpenSSL and Bash](https://github.com/AlmostNeverDone/SN104) <br/>
+  (憑證管理與自動化實作)</b>
+- <b>[RSA and DSA Public Key Cryptography Practice](https://github.com/AlmostNeverDone/SN103) <br/>
+  (RSA 與 DSA 公開金鑰密碼學實作)</b>
+- <b>[Exploring Cryptographic Tools with OpenSSL](https://github.com/AlmostNeverDone/SN101) <br/>
+  (使用 OpenSSL 探索加密工具)</b>
 <br/>
 <br/>
 
@@ -42,103 +78,18 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
 <br/>
 <br/>
 
-[Endpoint & System Security (端點與系統安全)]
-- <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) <br/>
-  (Microsoft Windows Defender 與防火牆)</b>
-<br/>
-<br/>
-
-[Cloud]
+[Cloud Security & Infrastructure（雲端與基礎架構）]
 - <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) <br/>
   (Azure：建立虛擬機器並部署 Web 伺服器)</b>
 <br/>
-
-
-
-<h2>🎓 UniSQ Courses Workshops 課程實作</h2>
-
-[Securing Networks(保護網路安全)]
-- <b>[Snort 3 Intrusion Detection Practice](https://github.com/AlmostNeverDone/SN110) <br/>
-  (Snort 3 入侵偵測實作)</b>
-- <b>[Implementing Extended IPv4 ACLs for Service-Based Traffic Control](https://github.com/AlmostNeverDone/SN109) <br/>
-  (透過延伸 IPv4 ACL 實現基於服務的流量管制)</b>
-- <b>[Network Access Control with Extended ACLs](https://github.com/AlmostNeverDone/SN108) <br/>
-  (使用擴展 ACL 實作網路存取控制)</b>
-- <b>[Virus Scanning Setup and Automation using ClamAV in Linux](https://github.com/AlmostNeverDone/SN107) <br/>
-  (在 Linux 系統中使用 ClamAV 進行病毒掃描與自動化設定)</b>
-- <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) <br/>
-  (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
-- <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) <br/>
-  (使用 DVWA 進行 SQL 注入攻擊演練)</b>
-- <b>[Certificate Management and Automation with OpenSSL and Bash](https://github.com/AlmostNeverDone/SN104) <br/>
-  (憑證管理與自動化實作)</b>
-- <b>[RSA and DSA Public Key Cryptography Practice](https://github.com/AlmostNeverDone/SN103) <br/>
-  (RSA 與 DSA 公開金鑰密碼學實作)</b>
-- <b>[Exploring Cryptographic Tools with OpenSSL](https://github.com/AlmostNeverDone/SN101) <br/>
-  (使用 OpenSSL 探索加密工具)</b>
 <br/>
 
-[Penetration Testing (滲透測試)]
-- <b>[Network Reconnaissance and Active Scanning with Nmap and Wireshark](https://github.com/AlmostNeverDone/PT101) <br/>
-  (使用 Nmap 與 Wireshark 進行網路偵察與主動式掃描)</b>
-- <b>[Credential Attack on SSH Authentication using Hydra](https://github.com/AlmostNeverDone/PT102) <br/>
-  (使用 Hydra 對 SSH 認證服務進行憑證攻擊)</b>
-<br/>
-
-[IS/ICT Project Management(IS/ICT專案管理)]
+[Project Management（專案管理）]
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) <br/>
   (專案管理：建立 WBS)</b>
 <br/>
-
-<h2>🛠 Tool Sets 工具集</h2>
-
-[Security Solutions & Defense Tools (資安產品與防禦解決方案)]
-- <b>Proofpoint Security Awareness Training (PSAT)</b>
-- <b>Proofpoint Insider Threat Management (ITM on-prem)</b>
-- <b>safetica DLP (on-prem)</b>
 <br/>
 
-[Network Traffic Analysis & Monitoring (網路流量分析與監控)]
-- <b>Wireshark</b>
-- <b>Tcpdump</b>
-<br/>
-
-[Network Simulation & System Design (網路模擬與系統設計)]
-- <b>Cisco Packet Tracer</b>
-- <b>GNS3</b>
-<br/>
-
-[Penetration Testing & Offensive Security (滲透測試與攻擊模擬)]
-- <b>NMAP</b>
-- <b>Attack tree</b>
-- <b>Metasploit</b>
-- <b>Google Dorking (Google hacking)</b>
-<br/>
-
-[Intrusion Detection & Prevention (入侵偵測與防禦)]
-- <b>Snort</b>
-<br/>
-
-[Programming & Scripting (程式語言與腳本自動化)]
-- <b>Bash</b>
-- <b>Python</b>
-<br/>
-
-[Database & Backend (資料庫與後端)]
-- <b>MySQL</b>
-<br/>
-
-[Cloud & Emerging Tools (雲端與新興工具)]
-- <b>Azure Cloud</b>
-- <b>Gemini</b>
-- <b>Copilot</b>
-<br/>
-
-[Project Management (專案管理)]
-- <b>Risk Management Plan</b>
-- <b>Work Breakdown Structure(WBS)</b>
-- <b>Microsoft project</b>
-<br/>
 
 <h2>🥋 Certifications and Digital Badges 認證和數位徽章</h2>
 
