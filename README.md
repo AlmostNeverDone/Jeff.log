@@ -99,6 +99,14 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
 - <b>[ISO27001 Lead Auditor 主導審核員](https://drive.google.com/file/d/1tCz14xyDbOqMI8Qy595ThurOc5ZHOmy2/view?usp=drive_link)</b>
 <br/>
 
+
+[Proofpoint]
+
+- <b>[Proofpoint Certified Phishing Specialist 2024 Proofpoint 認證網路釣魚專家 2024](https://www.credly.com/badges/affb6a26-b5f9-48c9-9458-2b0895ee1e25/public_url)</b>
+- <b>[Proofpoint Security Awareness Training(PSAT) Technical Specialist PSAT技術專家](https://drive.google.com/file/d/15jxXGEMNql3PgqOZQKYRi6SxM0Z2OLqu/view?usp=drive_link)</b>
+<br/>
+
+
 [Coursera Google]
 
 - <b>[Google Cybersecurity Professional 谷歌網路安全專家](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
@@ -109,12 +117,6 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
 [Microsoft]
 
 - <b>[Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900)](https://learn.microsoft.com/api/credentials/share/en-au/JeffLin-1361/28722A529DF97731?sharingId=C3AF92A7C9C694F2) </b>
-<br/>
-
-[Proofpoint]
-
-- <b>[Proofpoint Certified Phishing Specialist 2024 Proofpoint 認證網路釣魚專家 2024](https://www.credly.com/badges/affb6a26-b5f9-48c9-9458-2b0895ee1e25/public_url)</b>
-- <b>[Proofpoint Security Awareness Training(PSAT) Technical Specialist PSAT技術專家](https://drive.google.com/file/d/15jxXGEMNql3PgqOZQKYRi6SxM0Z2OLqu/view?usp=drive_link)</b>
 <br/>
 
 
