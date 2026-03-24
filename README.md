@@ -93,7 +93,7 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
 
 <h2>🥋 Certifications and Digital Badges 認證和數位徽章</h2>
 
-[TryHakeMe]
+[TryHackMe]
 
 - <b>[SOC Level 1 learning path SOC 1 級 學習路徑](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQCGR4LPOS.pdf)</b>
 <br/>
