@@ -142,6 +142,8 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
  
 <h2>📝Coming Soon 即將推出</h2>
 
+[TryHackMe] SOC simulation
+
 [TryHackMe] SAL1
 
 [EC-Council] CEH Practical
