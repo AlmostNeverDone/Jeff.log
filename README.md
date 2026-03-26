@@ -29,6 +29,8 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
 <br/>
 
 [Penetration Testing (滲透測試)]
+- <b>[Steganography: Hiding Data Inside Images](https://github.com/AlmostNeverDone/PT104) <br/>
+  (隱寫術：在影像中隱藏資料)</b>
 - <b>[Create a Simple Trojan with eLiTeWrap](https://github.com/AlmostNeverDone/PT103) <br/>
   (使用 eLiTeWrap 建立簡易木馬)</b>
 - <b>[Credential Attack on SSH Authentication using Hydra](https://github.com/AlmostNeverDone/PT102) <br/>
