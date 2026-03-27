@@ -1,10 +1,20 @@
 <h1>✨ Intro: whoami</h1>
 
-Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying MSc in Cyber Security at the University of Southern Queensland (USQ) full-time, fluent in both English and Traditional Chinese(Mandarin). Also, I conduct hands-on training in my spare time in order to combine theory with practice.
+Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying MSc in Cyber Security at the University of Southern Queensland (USQ) full-time, fluent in both English and Traditional Chinese(Mandarin). Alongside my academic studies, I actively engage in hands-on labs and independent projects to bridge the gap between theory and real-world cybersecurity practices.
 
-大家好，我是 Jeff，來自台灣🇹🇼的國際學生。目前在南昆士蘭大學 (USQ) 全職攻讀網路安全碩士學位，英語和普通話 (繁體中文) 都很流利。此外，我會在課餘時間進行實務訓練，將理論與實務結合。
+大家好，我是 Jeff，來自台灣🇹🇼的國際學生。目前在南昆士蘭大學 (USQ) 全職攻讀網路安全碩士學位，英語和普通話 (繁體中文) 都很流利。除了學術學習之外，我正積極參與實踐專題和獨立項目，以彌合理論與現實世界網路安全實踐之間的差距。
 <br/>
+
+
+The projects presented in this portfolio are developed through a combination of academic coursework, structured training platforms, and self-directed exploration. These include:<br/>
+本作品集中展示的項目是透過學術課程、結構化培訓平台和自主探索相結合的方式開發的。其中包括：
+
+- <b>[University course workshops (UniSQ)](https://github.com/AlmostNeverDone/PP103) <br/>
+- <b>[Hack The Box (HTB)]() <br/>
+- <b>[TryHackMe (THM)]() <br/>
+- <b>[Coursera]() <br/>
 <br/>
+
 
 <h2>👨‍💻 Projects and Hands-on Labs 專題與動手實踐</h2>
 
