@@ -29,6 +29,8 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
 <br/>
 
 [Penetration Testing (滲透測試)]
+- <b>[Hack Windows Password using Mimikatz](https://github.com/AlmostNeverDone/PT105) <br/>
+  (使用 Mimikatz 取得 Windows 憑證)</b>
 - <b>[Steganography: Hiding Data Inside Images](https://github.com/AlmostNeverDone/PT104) <br/>
   (隱寫術：在影像中隱藏資料)</b>
 - <b>[Create a Simple Trojan with eLiTeWrap](https://github.com/AlmostNeverDone/PT103) <br/>
