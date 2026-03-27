@@ -1,15 +1,16 @@
 <h1>✨ Intro: whoami</h1>
 
-Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying MSc in Cyber Security at the University of Southern Queensland (USQ) full-time, fluent in both English and Traditional Chinese(Mandarin). Alongside my academic studies, I actively engage in hands-on labs and independent projects to bridge the gap between theory and real-world cybersecurity practices.
+Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying MSc in Cyber Security at the University of Southern Queensland (USQ or UniSQ) full-time, fluent in both English and Traditional Chinese(Mandarin). Alongside my academic studies, I actively engage in hands-on labs and independent projects to bridge the gap between theory and real-world cybersecurity practices.
 
-大家好，我是 Jeff，來自台灣🇹🇼的國際學生。目前在南昆士蘭大學 (USQ) 全職攻讀網路安全碩士學位，英語和普通話 (繁體中文) 都很流利。除了學術學習之外，我正積極參與實踐專題和獨立項目，以彌合理論與現實世界網路安全實踐之間的差距。
+大家好，我是 Jeff，來自台灣🇹🇼的國際學生。目前在南昆士蘭大學 (USQ 或 UniSQ 皆可) 全職攻讀網路安全碩士學位，英語和普通話 (繁體中文) 都很流利。除了學術學習之外，我正積極參與實踐專題和獨立項目，以彌合理論與現實世界網路安全實踐之間的差距。
 <br/>
 
 
-The projects presented in this portfolio are developed through a combination of academic coursework, structured training platforms, and self-directed exploration. These include:<br/>
+The projects presented in this portfolio are developed through a combination of academic coursework, structured training platforms, and self-directed exploration. These include:
+
 本作品集中展示的項目是透過學術課程、結構化培訓平台和自主探索相結合的方式開發的。其中包括：
 
-- <b>[University course workshops (UniSQ)](https://github.com/AlmostNeverDone/PP103) <br/>
+- <b>[University course workshops (USQ)](https://github.com/AlmostNeverDone/PP103) <br/>
 - <b>[Hack The Box (HTB)]() <br/>
 - <b>[TryHackMe (THM)]() <br/>
 - <b>[Coursera]() <br/>
