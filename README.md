@@ -40,6 +40,8 @@ The projects presented in this portfolio are developed through a combination of 
 <br/>
 
 [Penetration Testing (滲透測試)]
+- <b>[Uncovering SQL Injection Vulnerabilities](https://github.com/AlmostNeverDone/PT106) <br/>
+  (SQL Injection 漏洞挖掘與利用)</b>
 - <b>[Hack Windows Password using Mimikatz](https://github.com/AlmostNeverDone/PT105) <br/>
   (使用 Mimikatz 取得 Windows 憑證)</b>
 - <b>[Steganography: Hiding Data Inside Images](https://github.com/AlmostNeverDone/PT104) <br/>
