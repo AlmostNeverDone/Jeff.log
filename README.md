@@ -4,11 +4,13 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
 
 大家好，我是 Jeff，來自台灣🇹🇼的國際學生。目前在南昆士蘭大學 (USQ 或 UniSQ 皆可) 全職攻讀網路安全碩士學位，英語和普通話 (繁體中文) 都很流利。除了學術學習之外，我正積極參與實踐專題和獨立項目，以彌合理論與現實世界網路安全實踐之間的差距。
 <br/>
+<br/>
 
 I believe true mastery is demonstrated by the ability to clearly explain concepts and make them understandable to others. In this portfolio, it's not only for emphasizing hands-on execution but also the ability to clearly document and communicate technical processes.
 
-我始終認為，真正的精通體現在能夠清楚地解釋概念，並使他人理解。因此這份文檔不僅用於強調實務操作，也著重於清晰地記錄和講述技術流程。
-
+我始終認為，真正的理解必須體現在能夠清楚地解釋概念，並正確地傳達給他人。因此這份文檔不僅用於強調實務操作，也著重於清晰地記錄和講述技術流程。
+<br/>
+<br/>
 
 The projects presented in this portfolio are developed through a combination of academic coursework, structured training platforms, and self-directed exploration. These include:
 
