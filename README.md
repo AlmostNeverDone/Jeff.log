@@ -6,7 +6,7 @@ Hi, I'm Jeff. An international student from Taiwan🇹🇼. Currently studying M
 <br/>
 <br/>
 
-I believe true mastery is demonstrated by the ability to clearly explain concepts and make them understandable to others. In this portfolio, it's not only for emphasizing hands-on execution but also the ability to clearly document and communicate technical processes.
+I firmly believe that true understanding must be demonstrated by the ability to clearly explain concepts and communicate them correctly to others. Therefore, this document not only emphasizes practical operations but also focuses on clearly recording and explaining technical processes.
 
 我始終認為，真正的理解必須體現在能夠清楚地解釋概念，並正確地傳達給他人。因此這份文檔不僅用於強調實務操作，也著重於清晰地記錄和講述技術流程。
 <br/>
