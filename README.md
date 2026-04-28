@@ -46,6 +46,8 @@ The projects presented in this portfolio are developed through a combination of 
 <br/>
 
 [Penetration Testing (滲透測試)]
+- <b>[Exploiting vsftpd 2.3.4 Backdoor with Metasploit](https://github.com/AlmostNeverDone/PT108) <br/>
+  (透過 Metasploit 利用 vsftpd 2.3.4 後門漏洞)</b>
 - <b>[Nmap NSE Vulnerability Scanning](https://github.com/AlmostNeverDone/PT107) <br/>
   (使用 Nmap NSE 進行漏洞掃描)</b>
 - <b>[Password Cracking Using John the Ripper (JTR)](https://github.com/AlmostNeverDone/EC101) <br/>
