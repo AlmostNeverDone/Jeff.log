@@ -140,7 +140,7 @@ The projects presented in this portfolio are developed through a combination of 
 
 [International Organization for Standardization (國際標準化組織)]
 
-- <b>[ISO27001 Lead Auditor 主導審核員](https://drive.google.com/file/d/1tCz14xyDbOqMI8Qy595ThurOc5ZHOmy2/view?usp=drive_link)</b>
+- <b>[ISO27001 Lead Auditor 主導稽核員](https://drive.google.com/file/d/1tCz14xyDbOqMI8Qy595ThurOc5ZHOmy2/view?usp=drive_link)</b>
 <br/>
 
 
