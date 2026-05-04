@@ -54,7 +54,7 @@ The projects presented in this portfolio are developed through a combination of 
   (透過 Metasploit 利用 vsftpd 2.3.4 後門漏洞)</b>
 - <b>[Nmap NSE Vulnerability Scanning](https://github.com/AlmostNeverDone/PT107) <br/>
   (使用 Nmap NSE 進行漏洞掃描)</b>
-- <b>[Password Cracking Using John the Ripper (JTR)](https://github.com/AlmostNeverDone/EC101) <br/>
+- <b>[Password Cracking Using John the Ripper (JTR)](https://github.com/AlmostNeverDone/EC302) <br/>
   (使用 John the Ripper 進行密碼破解)</b>
 - <b>[Uncovering SQL Injection Vulnerabilities](https://github.com/AlmostNeverDone/PT106) <br/>
   (SQL Injection 漏洞挖掘與利用)</b>
