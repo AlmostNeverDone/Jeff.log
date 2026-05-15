@@ -110,6 +110,8 @@ The projects presented in this portfolio are developed through a combination of 
   (憑證管理與自動化實作)</b>
 - <b>[RSA and DSA Public Key Cryptography Practice](https://github.com/AlmostNeverDone/SN103) <br/>
   (RSA 與 DSA 公開金鑰密碼學實作)</b>
+- <b>[Cryptography Operations and Rainbow Table Password Cracking](https://github.com/AlmostNeverDone/SN102) <br/>
+  (密碼學操作與彩虹表密碼破解)</b>
 - <b>[Exploring Cryptographic Tools with OpenSSL](https://github.com/AlmostNeverDone/SN101) <br/>
   (使用 OpenSSL 探索加密工具)</b>
 <br/>
