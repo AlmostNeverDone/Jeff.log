@@ -72,6 +72,12 @@ The projects presented in this portfolio are developed through a combination of 
   (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
 - <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) <br/>
   (使用 DVWA 進行 SQL 注入攻擊演練)</b>
+- <b>[Operating System and Service Enumeration with Nmap](https://github.com/AlmostNeverDone/EC103) <br/>
+  (使用 Nmap 識別作業系統與服務)</b>
+- <b>[Host Scanning with Nmap: TCP and UDP Port Enumeration](https://github.com/AlmostNeverDone/EC102) <br/>
+  (使用 Nmap 進行主機掃描：TCP 與 UDP 通訊埠枚舉)</b>
+- <b>[Network Scanning with Nmap: Local vs Remote Discovery](https://github.com/AlmostNeverDone/EC101) <br/>
+  (使用 Nmap 進行網路掃描：本地與遠端主機發現)</b>
 - <b>[Metasploit for Beginners - Ethical Penetration Testing](https://github.com/AlmostNeverDone/Project-Metasploit-for-Beginners-Ethical-Penetration-Testing)  <br/>
   (Metasploit 初學者 - 道德滲透測試)</b>
 - <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) <br/>
