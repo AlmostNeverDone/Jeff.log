@@ -72,6 +72,8 @@ The projects presented in this portfolio are developed through a combination of 
   (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
 - <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) <br/>
   (使用 DVWA 進行 SQL 注入攻擊演練)</b>
+- <b>[Linux Service Enumeration and SMB Reconnaissance](https://github.com/AlmostNeverDone/EC104) <br/>
+  (Linux 服務列舉與 SMB 偵察分析)</b>
 - <b>[Operating System and Service Enumeration with Nmap](https://github.com/AlmostNeverDone/EC103) <br/>
   (使用 Nmap 識別作業系統與服務)</b>
 - <b>[Host Scanning with Nmap: TCP and UDP Port Enumeration](https://github.com/AlmostNeverDone/EC102) <br/>
