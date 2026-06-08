@@ -178,6 +178,7 @@ The projects presented in this portfolio are developed through a combination of 
 
 [Microsoft]
 
+- <b>[Microsoft Certified: Azure Fundamentals 微軟認證：Azure AZ 基礎 (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-au/JeffLin-1361/A21141C555E26DB8?sharingId=C3AF92A7C9C694F2) </b>
 - <b>[Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900)](https://learn.microsoft.com/api/credentials/share/en-au/JeffLin-1361/28722A529DF97731?sharingId=C3AF92A7C9C694F2) </b>
 <br/>
 
@@ -209,9 +210,6 @@ The projects presented in this portfolio are developed through a combination of 
 [TryHackMe] SAL1
 
 [EC-Council] CEH Practical
-
-- <b>[Microsoft Project for Beginners: Create Simple Project Plans](https://github.com/AlmostNeverDone/Microsoft-Project-for-Beginners-Create-Simple-Project-Plans) <br/>
-  (Microsoft Project 初學者指南：建立簡單的專案計劃)</b>
 
 
 
