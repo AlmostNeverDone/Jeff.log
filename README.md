@@ -136,6 +136,8 @@ The projects presented in this portfolio are developed through a combination of 
   (Azure：建立虛擬機器並部署 Web 伺服器)</b>
 - <b>[Azure Entra ID and RBAC User Provisioning](https://github.com/AlmostNeverDone/AZ904) <br/>
   (使用 Azure Entra ID 與 RBAC 建立使用者權限管理)</b>
+- <b>[Azure Resource Management with Cloud Shell and Azure CLI](https://github.com/AlmostNeverDone/AZ908) <br/>
+  (使用 Cloud Shell 與 Azure CLI 管理 Azure 資源)</b>
 - <b>[Azure Resource Organization and Protection with Tags and Locks](https://github.com/AlmostNeverDone/AZ902) <br/>
   (使用 Azure Tags 與 Resource Locks 進行資源管理與保護)</b>
 <br/>
