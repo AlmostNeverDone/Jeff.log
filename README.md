@@ -19,6 +19,7 @@ The projects presented in this portfolio are developed through a combination of 
 - <b>[University course workshops (USQ)](https://github.com/AlmostNeverDone/PP103) <br/>
 - <b>[Hack The Box (HTB)](https://github.com/AlmostNeverDone/PP102) <br/>
 - <b>[TryHackMe (THM)](https://tryhackme.com/) <br/>
+- <b>[Microsoft Corporation](https://github.com/AlmostNeverDone/PP106) <br/>
 - <b>[Coursera](https://www.coursera.org/) <br/>
 <br/>
 
