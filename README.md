@@ -48,43 +48,59 @@ The projects presented in this portfolio are developed through a combination of 
 <br/>
 <br/>
 
-[Penetration Testing (滲透測試)]
+[Cloud Security & Infrastructure（雲端與基礎架構）]
+- <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) <br/>
+  (Azure：建立虛擬機器並部署 Web 伺服器)</b>
+- <b>[Azure Entra ID and RBAC User Provisioning](https://github.com/AlmostNeverDone/AZ904) <br/>
+  (使用 Azure Entra ID 與 RBAC 建立使用者權限管理)</b>
+- <b>[Azure Resource Management with Cloud Shell and Azure CLI](https://github.com/AlmostNeverDone/AZ908) <br/>
+  (使用 Cloud Shell 與 Azure CLI 管理 Azure 資源)</b>
+- <b>[Azure Resource Organization and Protection with Tags and Locks](https://github.com/AlmostNeverDone/AZ902) <br/>
+  (使用 Azure Tags 與 Resource Locks 進行資源管理與保護)</b>
+<br/>
+<br/>
+
+[Offensive Security & Penetration Testing（攻擊模擬與滲透測試）]
 - <b>[Multiple Remote Access Attacks using Metasploit](https://github.com/AlmostNeverDone/PT110) <br/>
   (使用 Metasploit 進行多重遠端存取攻擊)</b>
-- <b>[Denial of Service (DoS) Attacks: Slowloris & hping3](https://github.com/AlmostNeverDone/PT109) <br/>
-  (DoS 攻擊實作：Slowloris 與 hping3)</b>
 - <b>[Exploiting vsftpd 2.3.4 Backdoor with Metasploit](https://github.com/AlmostNeverDone/PT108) <br/>
   (透過 Metasploit 利用 vsftpd 2.3.4 後門漏洞)</b>
-- <b>[Nmap NSE Vulnerability Scanning](https://github.com/AlmostNeverDone/PT107) <br/>
-  (使用 Nmap NSE 進行漏洞掃描)</b>
-- <b>[Password Cracking Using John the Ripper (JTR)](https://github.com/AlmostNeverDone/EC302) <br/>
-  (使用 John the Ripper 進行密碼破解)</b>
-- <b>[Uncovering SQL Injection Vulnerabilities](https://github.com/AlmostNeverDone/PT106) <br/>
-  (SQL Injection 漏洞挖掘與利用)</b>
-- <b>[Hack Windows Password using Mimikatz](https://github.com/AlmostNeverDone/PT105) <br/>
-  (使用 Mimikatz 取得 Windows 憑證)</b>
-- <b>[Steganography: Hiding Data Inside Images](https://github.com/AlmostNeverDone/PT104) <br/>
-  (隱寫術：在影像中隱藏資料)</b>
+- <b>[Metasploit for Beginners - Ethical Penetration Testing](https://github.com/AlmostNeverDone/Project-Metasploit-for-Beginners-Ethical-Penetration-Testing)  <br/>
+  (Metasploit 初學者 - 道德滲透測試)</b>
 - <b>[Create a Simple Trojan with eLiTeWrap](https://github.com/AlmostNeverDone/PT103) <br/>
   (使用 eLiTeWrap 建立簡易木馬)</b>
-- <b>[Credential Attack on SSH Authentication using Hydra](https://github.com/AlmostNeverDone/PT102) <br/>
-  (使用 Hydra 對 SSH 認證服務進行憑證攻擊)</b>
-- <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) <br/>
-  (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
-- <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) <br/>
-  (使用 DVWA 進行 SQL 注入攻擊演練)</b>
-- <b>[Linux Service Enumeration and SMB Reconnaissance](https://github.com/AlmostNeverDone/EC104) <br/>
-  (Linux 服務列舉與 SMB 偵察分析)</b>
+- <b>[Hack Windows Password using Mimikatz](https://github.com/AlmostNeverDone/PT105) <br/>
+  (使用 Mimikatz 取得 Windows 憑證)</b>
+- <b>[Denial of Service (DoS) Attacks: Slowloris & hping3](https://github.com/AlmostNeverDone/PT109) <br/>
+  (DoS 攻擊實作：Slowloris 與 hping3)</b>
+- <b>[Steganography: Hiding Data Inside Images](https://github.com/AlmostNeverDone/PT104) <br/>
+  (隱寫術：在影像中隱藏資料)</b>
+<br/>
+<br/>
+
+[Reconnaissance & Vulnerability Assessment（偵察與漏洞評估）]
+- <b>[Nmap NSE Vulnerability Scanning](https://github.com/AlmostNeverDone/PT107) <br/>
+  (使用 Nmap NSE 進行漏洞掃描)</b>
+- <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) <br/>
+  (使用 Nmap 進行漏洞掃描 - 網路掃描)</b>
 - <b>[Operating System and Service Enumeration with Nmap](https://github.com/AlmostNeverDone/EC103) <br/>
   (使用 Nmap 識別作業系統與服務)</b>
 - <b>[Host Scanning with Nmap: TCP and UDP Port Enumeration](https://github.com/AlmostNeverDone/EC102) <br/>
   (使用 Nmap 進行主機掃描：TCP 與 UDP 通訊埠枚舉)</b>
 - <b>[Network Scanning with Nmap: Local vs Remote Discovery](https://github.com/AlmostNeverDone/EC101) <br/>
   (使用 Nmap 進行網路掃描：本地與遠端主機發現)</b>
-- <b>[Metasploit for Beginners - Ethical Penetration Testing](https://github.com/AlmostNeverDone/Project-Metasploit-for-Beginners-Ethical-Penetration-Testing)  <br/>
-  (Metasploit 初學者 - 道德滲透測試)</b>
-- <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) <br/>
-  (使用 Nmap 進行漏洞掃描 - 網路掃描)</b>
+- <b>[Linux Service Enumeration and SMB Reconnaissance](https://github.com/AlmostNeverDone/EC104) <br/>
+  (Linux 服務列舉與 SMB 偵察分析)</b>
+<br/>
+<br/>
+
+[Web Application Security（網頁應用程式安全）]
+- <b>[Uncovering SQL Injection Vulnerabilities](https://github.com/AlmostNeverDone/PT106) <br/>
+  (SQL Injection 漏洞挖掘與利用)</b>
+- <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) <br/>
+  (使用 DVWA 進行 SQL 注入攻擊演練)</b>
+- <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) <br/>
+  (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
 <br/>
 <br/>
 
@@ -114,7 +130,7 @@ The projects presented in this portfolio are developed through a combination of 
 <br/>
 <br/>
 
-[Cryptography & PKI（密碼學與憑證管理）]
+[Credential Attacks & Password Security（憑證攻擊與密碼安全）]
 - <b>[Certificate Management and Automation with OpenSSL and Bash](https://github.com/AlmostNeverDone/SN104) <br/>
   (憑證管理與自動化實作)</b>
 - <b>[RSA and DSA Public Key Cryptography Practice](https://github.com/AlmostNeverDone/SN103) <br/>
@@ -123,24 +139,16 @@ The projects presented in this portfolio are developed through a combination of 
   (密碼學操作與彩虹表密碼破解)</b>
 - <b>[Exploring Cryptographic Tools with OpenSSL](https://github.com/AlmostNeverDone/SN101) <br/>
   (使用 OpenSSL 探索加密工具)</b>
+- <b>[Credential Attack on SSH Authentication using Hydra](https://github.com/AlmostNeverDone/PT102) <br/>
+  (使用 Hydra 對 SSH 認證服務進行憑證攻擊)</b>
+- <b>[Password Cracking Using John the Ripper (JTR)](https://github.com/AlmostNeverDone/EC302) <br/>
+  (使用 John the Ripper 進行密碼破解)</b>
 <br/>
 <br/>
 
 [Threat Detection & Malware Awareness (威脅偵測與惡意軟體識別)]
 - <b>[Use GenAI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware) <br/>
   (使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
-<br/>
-<br/>
-
-[Cloud Security & Infrastructure（雲端與基礎架構）]
-- <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) <br/>
-  (Azure：建立虛擬機器並部署 Web 伺服器)</b>
-- <b>[Azure Entra ID and RBAC User Provisioning](https://github.com/AlmostNeverDone/AZ904) <br/>
-  (使用 Azure Entra ID 與 RBAC 建立使用者權限管理)</b>
-- <b>[Azure Resource Management with Cloud Shell and Azure CLI](https://github.com/AlmostNeverDone/AZ908) <br/>
-  (使用 Cloud Shell 與 Azure CLI 管理 Azure 資源)</b>
-- <b>[Azure Resource Organization and Protection with Tags and Locks](https://github.com/AlmostNeverDone/AZ902) <br/>
-  (使用 Azure Tags 與 Resource Locks 進行資源管理與保護)</b>
 <br/>
 <br/>
 
@@ -156,6 +164,7 @@ The projects presented in this portfolio are developed through a combination of 
 [TryHackMe]
 
 - <b>[SOC Level 1 learning path SOC 1 級 學習路徑](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQCGR4LPOS.pdf)</b>
+- <b>[Pre Security (SEC0) Certification](https://assets.tryhackme.com/certification-certificate/6a2e4467b8337bd47f505379.pdf)</b>
 <br/>
 
 
