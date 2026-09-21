@@ -55,6 +55,8 @@ The projects presented in this portfolio are developed through a combination of 
 <br/>
 
 [Cloud Security & Infrastructure（雲端與基礎架構）]
+- <b>[Microsoft Entra ID User Management: Provisioning, Licensing, Roles, and Bulk Operations](https://github.com/AlmostNeverDone/SC301) <br/>
+  (Microsoft Entra ID 使用者管理： 帳號建立、授權、角色與批次管理)</b>
 - <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) <br/>
   (Azure：建立虛擬機器並部署 Web 伺服器)</b>
 - <b>[Azure Entra ID and RBAC User Provisioning](https://github.com/AlmostNeverDone/AZ904) <br/>
