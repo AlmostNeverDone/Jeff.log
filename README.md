@@ -55,18 +55,20 @@ The projects presented in this portfolio are developed through a combination of 
 <br/>
 
 [Cloud Security & Infrastructure（雲端與基礎架構）]
+- <b>[Microsoft Entra ID Password Security and Self-Service Password Reset](https://github.com/AlmostNeverDone/SC303) <br/>
+  Microsoft Entra ID 密碼安全與自助式密碼重設 (SSPR)</b>
 - <b>[Microsoft Entra ID Group Management: Membership, Dynamic Groups, Ownership, and Licensing](https://github.com/AlmostNeverDone/SC302) <br/>
-  (Microsoft Entra ID 群組管理：成員、動態群組、擁有者與授權管理)</b>
+  Microsoft Entra ID 群組管理：成員、動態群組、擁有者與授權管理</b>
 - <b>[Microsoft Entra ID User Management: Provisioning, Licensing, Roles, and Bulk Operations](https://github.com/AlmostNeverDone/SC301) <br/>
-  (Microsoft Entra ID 使用者管理： 帳號建立、授權、角色與批次管理)</b>
+  Microsoft Entra ID 使用者管理： 帳號建立、授權、角色與批次管理</b>
 - <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) <br/>
-  (Azure：建立虛擬機器並部署 Web 伺服器)</b>
+  Azure：建立虛擬機器並部署 Web 伺服器</b>
 - <b>[Azure Entra ID and RBAC User Provisioning](https://github.com/AlmostNeverDone/AZ904) <br/>
-  (使用 Azure Entra ID 與 RBAC 建立使用者權限管理)</b>
+  使用 Azure Entra ID 與 RBAC 建立使用者權限管理</b>
 - <b>[Azure Resource Management with Cloud Shell and Azure CLI](https://github.com/AlmostNeverDone/AZ908) <br/>
-  (使用 Cloud Shell 與 Azure CLI 管理 Azure 資源)</b>
+  使用 Cloud Shell 與 Azure CLI 管理 Azure 資源</b>
 - <b>[Azure Resource Organization and Protection with Tags and Locks](https://github.com/AlmostNeverDone/AZ902) <br/>
-  (使用 Azure Tags 與 Resource Locks 進行資源管理與保護)</b>
+  使用 Azure Tags 與 Resource Locks 進行資源管理與保護</b>
 <br/>
 <br/>
 
