@@ -28,43 +28,50 @@ The projects presented in this portfolio are developed through a combination of 
 
 [Network Traffic Analysis (網路流量分析)]
 - <b>[Decrypting RDP connections](https://github.com/AlmostNeverDone/TA106) <br/>
-  (解密 RDP 連線)</b>
+  解密 RDP 連線</b>
 - <b>[Traffic Analysis Workflow](https://github.com/AlmostNeverDone/TA105) <br/>
-  (流量分析工作流程)</b>
+  流量分析工作流程</b>
 - <b>[Packet Inception, Dissecting Network Traffic With Wireshark](https://github.com/AlmostNeverDone/TA104) <br/>
-  (封包探勘：使用 Wireshark 剖析網路流量)</b>
+  封包探勘：使用 Wireshark 剖析網路流量</b>
 - <b>[Network Reconnaissance and Active Scanning with Nmap and Wireshark](https://github.com/AlmostNeverDone/PT101) <br/>
-  (使用 Nmap 與 Wireshark 進行網路偵察與主動式掃描)</b>
+  使用 Nmap 與 Wireshark 進行網路偵察與主動式掃描</b>
 - <b>[Interrogating Network Traffic With Capture and Display Filters](https://github.com/AlmostNeverDone/TA102) <br/>
-  (使用擷取和顯示過濾器查詢網路流量)</b>
+  使用擷取和顯示過濾器查詢網路流量</b>
 - <b>[Fundamentals of Packet Capture with tcpdump](https://github.com/AlmostNeverDone/TA101) <br/>
-  (Tcpdump 封包擷取基礎實作)</b>
+  Tcpdump 封包擷取基礎實作</b>
 - <b>[Wireshark for Basic Network Security Analysis](https://github.com/AlmostNeverDone/Project-Wireshark-for-Basic-Network-Security-Analysis/tree/main) <br/>
-  (將 Wireshark 用於基本網路安全分析)</b>
+  將 Wireshark 用於基本網路安全分析</b>
 - <b>[Wireshark for Beginners: Capture Packets](https://github.com/AlmostNeverDone/Project-Wireshark-for-Beginners-Capture-Packets) <br/>
-  (初學 Wireshark - 擷取封包)</b>
+  初學 Wireshark - 擷取封包</b>
 - <b>[Familiarity With Wireshark](https://github.com/AlmostNeverDone/TA103) <br/>
-  (熟悉 Wireshark)</b>
+  熟悉 Wireshark</b>
 <br/>
 <br/>
 
 [Microsoft Active Directory (微軟 AD)]
 - <b>[Active Directory Administration: User, Group, OU, and Group Policy Management](https://github.com/AlmostNeverDone/AD101) <br/>
-  (AD 管理實務：使用者、群組、OU 與群組原則管理)</b>
+  AD 管理實務：使用者、群組、OU 與群組原則管理</b>
 <br/>
 <br/>
 
-[Cloud Security & Infrastructure（雲端與基礎架構）]
+[Identity & Access Management (IAM) 身分與存取管理]
+- <b>[Microsoft Entra ID Multifactor Authentication and Conditional Access](https://github.com/AlmostNeverDone/SC304) <br/>
+  Microsoft Entra ID 多重要素驗證 (MFA) 與條件式存取</b>
 - <b>[Microsoft Entra ID Password Security and Self-Service Password Reset](https://github.com/AlmostNeverDone/SC303) <br/>
   Microsoft Entra ID 密碼安全與自助式密碼重設 (SSPR)</b>
 - <b>[Microsoft Entra ID Group Management: Membership, Dynamic Groups, Ownership, and Licensing](https://github.com/AlmostNeverDone/SC302) <br/>
   Microsoft Entra ID 群組管理：成員、動態群組、擁有者與授權管理</b>
 - <b>[Microsoft Entra ID User Management: Provisioning, Licensing, Roles, and Bulk Operations](https://github.com/AlmostNeverDone/SC301) <br/>
   Microsoft Entra ID 使用者管理： 帳號建立、授權、角色與批次管理</b>
-- <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) <br/>
-  Azure：建立虛擬機器並部署 Web 伺服器</b>
 - <b>[Azure Entra ID and RBAC User Provisioning](https://github.com/AlmostNeverDone/AZ904) <br/>
   使用 Azure Entra ID 與 RBAC 建立使用者權限管理</b>
+<br/>
+<br/>
+
+[Cloud Infrastructure & Resource Management（雲端基礎架構與資源管理）]
+
+- <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) <br/>
+  Azure：建立虛擬機器並部署 Web 伺服器</b>
 - <b>[Azure Resource Management with Cloud Shell and Azure CLI](https://github.com/AlmostNeverDone/AZ908) <br/>
   使用 Cloud Shell 與 Azure CLI 管理 Azure 資源</b>
 - <b>[Azure Resource Organization and Protection with Tags and Locks](https://github.com/AlmostNeverDone/AZ902) <br/>
@@ -74,99 +81,99 @@ The projects presented in this portfolio are developed through a combination of 
 
 [Offensive Security & Penetration Testing（攻擊模擬與滲透測試）]
 - <b>[Multiple Remote Access Attacks using Metasploit](https://github.com/AlmostNeverDone/PT110) <br/>
-  (使用 Metasploit 進行多重遠端存取攻擊)</b>
+  使用 Metasploit 進行多重遠端存取攻擊</b>
 - <b>[Exploiting vsftpd 2.3.4 Backdoor with Metasploit](https://github.com/AlmostNeverDone/PT108) <br/>
-  (透過 Metasploit 利用 vsftpd 2.3.4 後門漏洞)</b>
+  透過 Metasploit 利用 vsftpd 2.3.4 後門漏洞</b>
 - <b>[Metasploit for Beginners - Ethical Penetration Testing](https://github.com/AlmostNeverDone/Project-Metasploit-for-Beginners-Ethical-Penetration-Testing)  <br/>
-  (Metasploit 初學者 - 道德滲透測試)</b>
+  Metasploit 初學者 - 道德滲透測試</b>
 - <b>[Create a Simple Trojan with eLiTeWrap](https://github.com/AlmostNeverDone/PT103) <br/>
-  (使用 eLiTeWrap 建立簡易木馬)</b>
+  使用 eLiTeWrap 建立簡易木馬</b>
 - <b>[Hack Windows Password using Mimikatz](https://github.com/AlmostNeverDone/PT105) <br/>
-  (使用 Mimikatz 取得 Windows 憑證)</b>
+  使用 Mimikatz 取得 Windows 憑證</b>
 - <b>[Denial of Service (DoS) Attacks: Slowloris & hping3](https://github.com/AlmostNeverDone/PT109) <br/>
-  (DoS 攻擊實作：Slowloris 與 hping3)</b>
+  DoS 攻擊實作：Slowloris 與 hping3</b>
 - <b>[Steganography: Hiding Data Inside Images](https://github.com/AlmostNeverDone/PT104) <br/>
-  (隱寫術：在影像中隱藏資料)</b>
+  隱寫術：在影像中隱藏資料</b>
 <br/>
 <br/>
 
 [Reconnaissance & Vulnerability Assessment（偵察與漏洞評估）]
 - <b>[Nmap NSE Vulnerability Scanning](https://github.com/AlmostNeverDone/PT107) <br/>
-  (使用 Nmap NSE 進行漏洞掃描)</b>
+  使用 Nmap NSE 進行漏洞掃描</b>
 - <b>[Vulnerability Scanning with Nmap: Network Scanning](https://github.com/AlmostNeverDone/Project-Vulnerability-Scanning-with-Nmap-Network-Scanning) <br/>
-  (使用 Nmap 進行漏洞掃描 - 網路掃描)</b>
+  使用 Nmap 進行漏洞掃描 - 網路掃描</b>
 - <b>[Operating System and Service Enumeration with Nmap](https://github.com/AlmostNeverDone/EC103) <br/>
-  (使用 Nmap 識別作業系統與服務)</b>
+  使用 Nmap 識別作業系統與服務</b>
 - <b>[Host Scanning with Nmap: TCP and UDP Port Enumeration](https://github.com/AlmostNeverDone/EC102) <br/>
-  (使用 Nmap 進行主機掃描：TCP 與 UDP 通訊埠枚舉)</b>
+  使用 Nmap 進行主機掃描：TCP 與 UDP 通訊埠枚舉</b>
 - <b>[Network Scanning with Nmap: Local vs Remote Discovery](https://github.com/AlmostNeverDone/EC101) <br/>
-  (使用 Nmap 進行網路掃描：本地與遠端主機發現)</b>
+  使用 Nmap 進行網路掃描：本地與遠端主機發現</b>
 - <b>[Linux Service Enumeration and SMB Reconnaissance](https://github.com/AlmostNeverDone/EC104) <br/>
-  (Linux 服務列舉與 SMB 偵察分析)</b>
+  Linux 服務列舉與 SMB 偵察分析</b>
 <br/>
 <br/>
 
 [Web Application Security（網頁應用程式安全）]
 - <b>[Uncovering SQL Injection Vulnerabilities](https://github.com/AlmostNeverDone/PT106) <br/>
-  (SQL Injection 漏洞挖掘與利用)</b>
+  SQL Injection 漏洞挖掘與利用</b>
 - <b>[SQL Injection Attack Walkthrough using DVWA](https://github.com/AlmostNeverDone/SN105) <br/>
-  (使用 DVWA 進行 SQL 注入攻擊演練)</b>
+  使用 DVWA 進行 SQL 注入攻擊演練</b>
 - <b>[DVWA & Flask Server – XSS Attacks Lab](https://github.com/AlmostNeverDone/SN106) <br/>
-  (DVWA 與 Flask Server – XSS 攻擊 Lab)</b>
+  DVWA 與 Flask Server – XSS 攻擊 Lab</b>
 <br/>
 <br/>
 
 [Digital Forensics (數位取證)]
 - <b>[Forensic Disk Imaging with Raw Acquisition (ProDiscover)](https://github.com/AlmostNeverDone/DF102) <br/>
-  (使用 Raw 格式進行數位鑑識映像擷取 (ProDiscover))</b>
+  使用 Raw 格式進行數位鑑識映像擷取 (ProDiscover)</b>
 - <b>[Forensic Image Restoration and Evidence Preparation](https://github.com/AlmostNeverDone/DF101) <br/>
-  (數位鑑識映像還原與證據準備)</b>
+  數位鑑識映像還原與證據準備</b>
 <br/>
 <br/>
 
 [Network Security & Access Control（網路安全與存取控制）]
 - <b>[Implementing Extended IPv4 ACLs for Service-Based Traffic Control](https://github.com/AlmostNeverDone/SN109) <br/>
-  (透過延伸 IPv4 ACL 實現基於服務的流量管制)</b>
+  透過延伸 IPv4 ACL 實現基於服務的流量管制</b>
 - <b>[Network Access Control with Extended ACLs](https://github.com/AlmostNeverDone/SN108) <br/>
-  (使用擴展 ACL 實作網路存取控制)</b>
+  使用擴展 ACL 實作網路存取控制</b>
 - <b>[Snort 3 Intrusion Detection Practice](https://github.com/AlmostNeverDone/SN110) <br/>
-  (Snort 3 入侵偵測實作)</b>
+  Snort 3 入侵偵測實作</b>
 <br/>
 <br/>
 
 [System Security & Administration（系統安全與管理）]
 - <b>[Virus Scanning Setup and Automation using ClamAV in Linux](https://github.com/AlmostNeverDone/SN107) <br/>
-  (在 Linux 系統中使用 ClamAV 進行病毒掃描與自動化設定)</b>
+  在 Linux 系統中使用 ClamAV 進行病毒掃描與自動化設定</b>
 - <b>[Microsoft Windows Defender and Firewall](https://github.com/AlmostNeverDone/Project-Microsoft-Windows-Defender-and-Firewall) <br/>
-  (Microsoft Windows Defender 與防火牆)</b>
+  Microsoft Windows Defender 與防火牆</b>
 <br/>
 <br/>
 
 [Credential Attacks & Password Security（憑證攻擊與密碼安全）]
 - <b>[Certificate Management and Automation with OpenSSL and Bash](https://github.com/AlmostNeverDone/SN104) <br/>
-  (憑證管理與自動化實作)</b>
+  憑證管理與自動化實作</b>
 - <b>[RSA and DSA Public Key Cryptography Practice](https://github.com/AlmostNeverDone/SN103) <br/>
-  (RSA 與 DSA 公開金鑰密碼學實作)</b>
+  RSA 與 DSA 公開金鑰密碼學實作</b>
 - <b>[Cryptography Operations and Rainbow Table Password Cracking](https://github.com/AlmostNeverDone/SN102) <br/>
-  (密碼學操作與彩虹表密碼破解)</b>
+  密碼學操作與彩虹表密碼破解</b>
 - <b>[Exploring Cryptographic Tools with OpenSSL](https://github.com/AlmostNeverDone/SN101) <br/>
-  (使用 OpenSSL 探索加密工具)</b>
+  使用 OpenSSL 探索加密工具</b>
 - <b>[Credential Attack on SSH Authentication using Hydra](https://github.com/AlmostNeverDone/PT102) <br/>
-  (使用 Hydra 對 SSH 認證服務進行憑證攻擊)</b>
+  使用 Hydra 對 SSH 認證服務進行憑證攻擊</b>
 - <b>[Password Cracking Using John the Ripper (JTR)](https://github.com/AlmostNeverDone/EC302) <br/>
-  (使用 John the Ripper 進行密碼破解)</b>
+  使用 John the Ripper 進行密碼破解</b>
 <br/>
 <br/>
 
 [Threat Detection & Malware Awareness (威脅偵測與惡意軟體識別)]
 - <b>[Use GenAI to list common signs of phishing and malware](https://github.com/AlmostNeverDone/Project-Use-generative-AI-to-list-common-signs-of-phishing-and-malware) <br/>
-  (使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象)</b>
+  使用生成式 AI 列出網路釣魚和惡意軟體的常見跡象</b>
 <br/>
 <br/>
 
 [Project Management（專案管理）]
 - <b>[Project Management: Creating the WBS](https://github.com/AlmostNeverDone/PM101) <br/>
-  (專案管理：建立 WBS)</b>
+  專案管理：建立 WBS</b>
 <br/>
 <br/>
 
