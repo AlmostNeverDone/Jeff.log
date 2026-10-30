@@ -26,6 +26,13 @@ The projects presented in this portfolio are developed through a combination of 
 
 <h2>👨‍💻 Projects and Hands-on Labs 專題與動手實踐</h2>
 
+
+[SOC Simulator (SOC 情境模擬器)]
+- <b>[SOC Alert Triage & Phishing Investigation Using Elastic SIEM](https://github.com/AlmostNeverDone/SOC101) <br/>
+  使用 Elastic SIEM 進行 SOC 警報分類與釣魚事件調查</b>
+<br/>
+<br/>
+
 [Network Traffic Analysis (網路流量分析)]
 - <b>[Decrypting RDP connections](https://github.com/AlmostNeverDone/TA106) <br/>
   解密 RDP 連線</b>
