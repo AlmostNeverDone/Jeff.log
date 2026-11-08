@@ -16,7 +16,7 @@ The projects presented in this portfolio are developed through a combination of 
 
 本作品集中展示的項目是透過學術課程、結構化培訓平台和自主探索相結合的方式開發的。其中包括：
 
-- <b>[University course workshops (USQ)](https://github.com/AlmostNeverDone/PP103) <br/>
+- <b>[University Course Workshops (USQ)](https://github.com/AlmostNeverDone/PP103) <br/>
 - <b>[Hack The Box (HTB)](https://github.com/AlmostNeverDone/PP102) <br/>
 - <b>[TryHackMe (THM)](https://tryhackme.com/) <br/>
 - <b>[Microsoft Corporation](https://github.com/AlmostNeverDone/PP106) <br/>
