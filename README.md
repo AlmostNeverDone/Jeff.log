@@ -28,6 +28,8 @@ The projects presented in this portfolio are developed through a combination of 
 
 
 [SOC Simulator (SOC 情境模擬器)]
+- <b>[Multi-Stage Phishing Attack Chain Investigation Using Splunk](https://github.com/AlmostNeverDone/SOC102) <br/>
+  使用 Splunk 進行多階段釣魚攻擊鏈調查</b>
 - <b>[SOC Alert Triage & Phishing Investigation Using Elastic SIEM](https://github.com/AlmostNeverDone/SOC101) <br/>
   使用 Elastic SIEM 進行 SOC 警報分類與釣魚事件調查</b>
 <br/>
