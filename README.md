@@ -248,11 +248,8 @@ The projects presented in this portfolio are developed through a combination of 
  
 <h2>📝Coming Soon 即將推出</h2>
 
-[TryHackMe] SOC Simulator
-
 [TryHackMe] SAL1
 
-[EC-Council] CEH Practical
 
 
 
