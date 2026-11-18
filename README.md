@@ -193,57 +193,66 @@ The projects presented in this portfolio are developed through a combination of 
 
 [TryHackMe]
 
-- <b>[SOC Level 1 learning path SOC 1 級 學習路徑](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQCGR4LPOS.pdf)</b>
-- <b>[Cyber Security 101 (SEC1) Certification](https://assets.tryhackme.com/certification-certificate/6a742773479b2eb85d8808cd.pdf)</b>
-- <b>[Pre Security (SEC0) Certification](https://assets.tryhackme.com/certification-certificate/6a2e4467b8337bd47f505379.pdf)</b>
+- <b>[SOC Level 1 learning path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQCGR4LPOS.pdf)<br/>
+  SOC L1 學習路徑</b>
+- <b>[Cyber Security 101 (SEC1) Certification](https://assets.tryhackme.com/certification-certificate/6a742773479b2eb85d8808cd.pdf)<br/>
+- <b>[Pre Security (SEC0) Certification](https://assets.tryhackme.com/certification-certificate/6a2e4467b8337bd47f505379.pdf)<br/>
 <br/>
 
 
 [International Organization for Standardization (國際標準化組織)]
 
-- <b>[ISO27001 Lead Auditor 主導稽核員](https://drive.google.com/file/d/1tCz14xyDbOqMI8Qy595ThurOc5ZHOmy2/view?usp=drive_link)</b>
+- <b>[ISO27001 Lead Auditor (LA)](https://drive.google.com/file/d/1tCz14xyDbOqMI8Qy595ThurOc5ZHOmy2/view?usp=drive_link)<br/>
+  ISO27001 主導稽核員</b>
 <br/>
 
 
 [Proofpoint]
 
-- <b>[Proofpoint Certified Phishing Specialist 2024 Proofpoint 認證網路釣魚專家 2024](https://www.credly.com/badges/affb6a26-b5f9-48c9-9458-2b0895ee1e25/public_url)</b>
-- <b>[Proofpoint Security Awareness Training(PSAT) Technical Specialist PSAT技術專家](https://drive.google.com/file/d/15jxXGEMNql3PgqOZQKYRi6SxM0Z2OLqu/view?usp=drive_link)</b>
+- <b>[Proofpoint Certified Phishing Specialist 2024](https://www.credly.com/badges/affb6a26-b5f9-48c9-9458-2b0895ee1e25/public_url)<br/>
+  Proofpoint 認證網路釣魚專家 2024</b>
+- <b>[Proofpoint Security Awareness Training(PSAT) Technical Specialist](https://drive.google.com/file/d/15jxXGEMNql3PgqOZQKYRi6SxM0Z2OLqu/view?usp=drive_link)<br/>
+  Proofpoint 安全意識培訓(PSAT)技術專家</b>
 <br/>
 
 
 [Coursera Google]
 
-- <b>[Google Cybersecurity Professional 谷歌網路安全專家](https://coursera.org/verify/professional-cert/SWUXJAL4M678)</b>
-
-- <b>[Google IT Support Professional 谷歌IT支援專家](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)</b>
+- <b>[Google Cybersecurity Professional ](https://coursera.org/verify/professional-cert/SWUXJAL4M678)<br/>
+  谷歌網路安全專家</b>
+- <b>[Google IT Support Professional](https://coursera.org/verify/professional-cert/GWDPHD4P8TDJ)<br/>
+  谷歌IT支援專家</b>
 <br/>
 
 [Microsoft]
 
-- <b>[Microsoft Certified: Azure Fundamentals 微軟認證：Azure AZ 基礎 (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-au/JeffLin-1361/A21141C555E26DB8?sharingId=C3AF92A7C9C694F2) </b>
-- <b>[Microsoft Certified: Azure AI Fundamentals 微軟認證：Azure AI 基礎 (AI-900)](https://learn.microsoft.com/api/credentials/share/en-au/JeffLin-1361/28722A529DF97731?sharingId=C3AF92A7C9C694F2) </b>
+- <b>[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-au/JeffLin-1361/A21141C555E26DB8?sharingId=C3AF92A7C9C694F2) <br/>
+  微軟認證：Azure AZ 基礎 (AZ-900)</b>
+- <b>[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-au/JeffLin-1361/28722A529DF97731?sharingId=C3AF92A7C9C694F2) <br/>
+  微軟認證：Azure AI 基礎 (AI-900)</b>
 <br/>
 
 
 [Fortinet (飛塔)]
 
-- <b>[Fortinet Certified Fundamentals Cybersecurity 飛塔認證網路安全入門 (FCF)](https://www.credly.com/badges/f74b1753-3a81-4593-aeac-f9c6d32e3794/public_url)</b>
+- <b>[Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/f74b1753-3a81-4593-aeac-f9c6d32e3794/public_url)<br/>
+  飛塔認證網路安全入門 (FCF)</b>
 <br/>
 
 [IBM SkillsBuild]
 
-- <b>[Cybersecurity Fundamentals 網路安全基礎](https://www.credly.com/badges/3fbca080-04f8-4768-a23a-1daa0b75d10f/public_url)</b>
-
-- <b>[Cloud Computing Fundamentals 雲端運算基礎](https://www.credly.com/badges/cfab4d29-e79a-4626-ad05-37e14d4724c9/public_url)</b>
-
-- <b>[Information Technology Fundamentals 資訊科技基礎](https://www.credly.com/badges/e5444641-b78a-4838-b648-05e71fe8690a/public_url)</b>
-
-- <b>[Working in a Digital World: Professional Skills 在數位世界中工作：專業技能](https://www.credly.com/badges/924c3072-38f9-4853-99fd-5c352f9ebd68/public_url)</b>
-
-- <b>[Project Management Fundamentals 專案管理基礎](https://www.credly.com/badges/2b51724e-75f6-4d47-ba2c-7da20cee26d3/public_url)</b>
-
-- <b>[Agile Explorer 敏捷探索者](https://www.credly.com/badges/1c401d06-c8d9-4351-a6cf-fb13cf0323f0/public_url)</b>
+- <b>[Cybersecurity Fundamentals](https://www.credly.com/badges/3fbca080-04f8-4768-a23a-1daa0b75d10f/public_url)<br/>
+  網路安全基礎</b>
+- <b>[Cloud Computing Fundamentals](https://www.credly.com/badges/cfab4d29-e79a-4626-ad05-37e14d4724c9/public_url)<br/>
+  雲端運算基礎</b>
+- <b>[Information Technology Fundamentals](https://www.credly.com/badges/e5444641-b78a-4838-b648-05e71fe8690a/public_url)<br/>
+  資訊科技基礎</b>
+- <b>[Working in a Digital World: Professional Skills](https://www.credly.com/badges/924c3072-38f9-4853-99fd-5c352f9ebd68/public_url)<br/>
+  在數位世界中工作：專業技能</b>
+- <b>[Project Management Fundamentals](https://www.credly.com/badges/2b51724e-75f6-4d47-ba2c-7da20cee26d3/public_url)<br/>
+  專案管理基礎</b>
+- <b>[Agile Explorer](https://www.credly.com/badges/1c401d06-c8d9-4351-a6cf-fb13cf0323f0/public_url)<br/>
+  敏捷探索者</b>
 <br/>
  
 <h2>📝Coming Soon 即將推出</h2>
